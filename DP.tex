@@ -30,10 +30,12 @@
 	%file, width
 	\includegraphics[width=#2cm]{#1}
 }
-\newcommand{\figwrap}[4]{
+\newcommand{\figwrap}[1]{
 	%file, width, height, side
-	\begin{wrapfigure}[#3]{#4}[0pt]{#2cm}
-		\includegraphics[width=\linewidth]{#1}
+	\begin{wrapfigure}{r}{0.5\textwidth}
+		\begin{center}
+			\includegraphics[width=0.48\textwidth]{#1}
+		\end{center}
 	\end{wrapfigure}
 }
 
@@ -62,7 +64,9 @@
         \ddd 90\% of Himalayan Glacier Melting Caused by Aerosols and Black Carbon
         \ddd \vocab{Aerosol}: a colloidal suspension of particles dispersed in air or gas.
 		\textbf{reducing albedo}.
-		\fig{NOAASeaLevel}
+		\begin{wrapfigure}{R}{0.2\textwidth}
+			\includegraphics[width=0.1\textwidth]{NOAASeaLevel}
+		\end{wrapfigure}
 		\mysub{Ocean} If glacier melted 
 		\mysubsub{sea level would rise by: } All of Greenland (7.2m); West Antarctic Ice Sheet (3.2m). All of Antarctica (57m). 
          \ddd seal level has risen by 4 to 8 inches over the past century
