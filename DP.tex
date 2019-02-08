@@ -1,7 +1,7 @@
 \documentclass{article}
 \author{SBHS Science Olympiad, Gold}
-\usepackage[margin=.05in, landscape]{geometry}
-\setlength{\columnsep}{.1in}
+\usepackage[margin=0in, landscape]{geometry}
+\setlength{\columnsep}{.05in}
 \usepackage{amsmath, multicol}
 \usepackage{xcolor}
 \usepackage{graphicx, wrapfig, float}
@@ -29,6 +29,11 @@
 \newcommand{\figwidth}[2]{
 	%file, width
 	\includegraphics[width=#2cm]{#1}
+}
+\newcommand{\figtwo}[2]{
+	%file, width
+	\includegraphics[width=.5 \linewidth]{#1}
+	\includegraphics[width=.5 \linewidth]{#2}
 }
 \newcommand{\figwrap}[1]{
 	%file, width, height, side
@@ -64,9 +69,6 @@
         \ddd 90\% of Himalayan Glacier Melting Caused by Aerosols and Black Carbon
         \ddd \vocab{Aerosol}: a colloidal suspension of particles dispersed in air or gas.
 		\textbf{reducing albedo}.
-		\begin{wrapfigure}{R}{0.2\textwidth}
-			\includegraphics[width=0.1\textwidth]{NOAASeaLevel}
-		\end{wrapfigure}
 		\mysub{Ocean} If glacier melted 
 		\mysubsub{sea level would rise by: } All of Greenland (7.2m); West Antarctic Ice Sheet (3.2m). All of Antarctica (57m). 
          \ddd seal level has risen by 4 to 8 inches over the past century
@@ -116,10 +118,7 @@
     \mysection{History of Ice on Earth}
     	\mysub{Recent History}
     	There have been five or six major ice ages in the past 3 billion years
-    	
     	The Late Cenozoic Ice Age began 34 million years ago, its latest phase being the Quaternary glaciation, in progress since 2.58 million years ago. 
-    	
-    
         \mysub{Neoproterozoic Snowball on Earth} 
             \vocab{Snowball earth} around \textbf{650 mya}--biological activity in the ocean surface collapsed for millions of years; \textbf{Ended} when volcanic outgassing raised CO2 to 350x modern level; Ocean was virtually covered by thin sea ice + continents were covered in patchy ice due to hydrologic cycle; \vocab{Sir Douglas Mawson} proposed this. 
         \mysub{Late Palezoic Ice Ages}
@@ -144,7 +143,7 @@
             \ddd Northern Hemisphere glaciation occurred in episodes after Greenland froze
             \ddd Tectonic changes might have triggered more extensive NH glaciation
         \fig{ice_ages1}
-		\mysection{Glacial Formation} % New SEction
+		\mysection{Glacial Formation} % New Section
 		\mysub {Glacial Ice:}
 		Glacier formation - snow in same area year long and accumulates into masses of ice; ; after the first winter this is known as neve; after two winters, snow turns into firn; the ice increases in density over years
 		\mysub{Ice Crystal Structure:} 
@@ -152,20 +151,16 @@
 		\mysub{Properties of Ice:} The albedo is 0.5 to 0.9 for snow, 0.3 to 0.65 for firn, and 0.15 to 0.35 for glacier ice
 		\mysubsub{Albedo:} lowers the melting point of the glacier due to hydrostatic pressure, where deeper parts of the glacier are colder
 	%Figure intermission
+	    \fig{hydrology}
 	    \fig{landforms}
-        \fig{mtnglacier}
         \fig{moraines}
         \fig{Glacier_Types}
-        \fig{hydrology}
-        \fig{laurentideicesheet}
-        \fig{larsencollapses}
-        \fig{glacierflow2}
+        \figtwo{glacierflow2}{Larsen_contours}
 	%Mass Balance and Flow
 		\mysection{Mass-balance and Flow}
 		\mysub{Ablation and Accumulation Zones:}
 		\mysubsub{Accumulation Zones} are the part of the glacier that has more accumulation than ablation
 		\mysubsub{Ablation Zones} are the part of the glacier that has more ablation than accumulation, and the calculate mass balance, just add the two figures
-		\fig{AblationAccumulationZones}
 		\mysub{Equilibrium Lines} The point across a glacier where accumulation is equal to ablation; The lower the altitude of this line, the faster the glacier advances, and vice versa
 		\mysub{Relation of flow to elevation and gradient:}
 		\mysubsub{Gradient -} the higher the gradient, the faster the floor of the glacier; Glaciers steeper in maritime climates and temperate latitudes then in continental climates and polar latitudes.
@@ -216,7 +211,6 @@
             \ddd Antartica has not shown noticeable changes. 
             \ddd Antartic peninsula has seen changes which is the part that sticks out of the continent
         \mysection{Methods of studying glaciers}
-        \fig{mbMeas}
             \ddd The two main processes used to determine ablation or accumulation are \textbf{probing} and \textbf{crevasse stratigraphy}, which can give accurate measurements of snowpack thickness.
             \mysub{Probing}: researchers will place poles in the icepack at various points, at the beginning of the melt period or accumulation period. After a few months the researchers will return and look at the changes in levels of ice, by looking at the height of the ice along the pole.
             \mysub{Crevasse stratigraphy}: researchers will find crevasses, then observe the number of layers that formed. Based on the layers the researchers will be able to determine how much snow accumulated. The layers are almost like layers in a tree trunk.
@@ -232,7 +226,6 @@
                 \ddd 31 January 2002 - March 2002 Larsen B sector partially collapsed and parts broke up. 
                 \ddd Larsen B was stable for 10,000 years, but due to warm currents eating away the underside of the shelf it collapsed. 
                 \ddd 3,250-square-kilometer (1,255-square-mile) section collapsed (size of Rhode island)
-                \fig{Larsen_contours} \\
             \mysub{Kilimanjaro}
                 \ddd Kilimanjaro's shrinking northern glaciers, thought to be 10,000 years old, could disappear by 2030
                 \ddd The northern ice field, which holds most of the remaining glacial ice, lost more than 140 million cubic feet of ice in the past 13 years
@@ -280,20 +273,15 @@
                 \ddd Throughout the Quaternary period, high latitude winters have been cold enough to allow snow to accumulate. It is when the summers are cold, (i.e., summers that occur when the sun is at its farthest point in Earth's orbit), that the snows of previous winters do not melt completely. When this process continues for centuries, ice sheets begin to form. Finally, the shape of Earth's orbit also changes. At one extreme, the orbit is more circular, so that each season receives about the same amount of insolation. At the other extreme, the orbital ellipse is stretched longer, exaggerating the differences between seasons. The eccentricity of Earth's orbit also proceeds through a long cycle, which takes 100,000 years. Major glacial events in the Quaternary have coincided when the phases of axial tilt, precession of equinoxes and eccentricity of orbit are all lined up to give the northern hemisphere the least amount of summer insolation.
             \mysub{Glacial History of Quaternary}
                 The Quaternary System is that lasted from the present to approximately 2.588 million years ago with the Neogene system before the Quaternary. The Quaternary System contains two series: the Holocene and the Pleistocene with the Holocene being the present. In this period, ice sheets were able to form in Greenland and Antarctica and the continents were formed to their present shape. As glaciers formed and later retreated, thousands of lakes and rivers were created all over the world. As the glaciers retreated the sea level rose and the amount of biological diversity in the oceans increased
-                \fig{Quelccaya_Glacier}
-                \fig{series}
      \mysection{Glacier Fluctuations}
 	        \ddd In ~1930 Milutin Milankovitch proposed that variations in three parameters of the earth's orbit caused glacial fluctuations: 
 	        \ddd 1.	Orbital eccentricity - the orbit of the earth around the sun is not a circle, but is elliptical and also varies. This eccentricity is a minor cause for seasons.
 	        \ddd 2.	Tilt variations in the axis of rotation (obliquity) - the tilt of the earth's rotational axis varies with time. A tilted axis is the primary cause of seasons. This varies between 22.1 and 24.5 in a 40,000 year cycle
 	        \ddd 3.	Precession - the earth's axis of rotation wobbles which results in minor fluctuations in the amount of solar radiation we receive.
 	        \ddd Milankovitch pacing seems to best explain glaciation events with periodicity of 100k, 40k, and 20k years. This pattern seems to fit the info on climate change found in oxygen isotope cores. However, there are some problems with the Milankovitch theories.
-	        \ddd \textbf{100,000 year Problem eccentricity} variations have a significantly smaller impact on solar forcing than precession or obliquity and may be expected to produce the weakest effects. The greatest observed response is at the 100k year timescale, while the theoretical forcing is smaller at this scale, in regard to the ice ages. During the last 1 million years, the strongest climate signal is the 100k year cycle.
-	        \ddd \textbf{400,000 year Problem} (aka stage 11 problem) eccentricity variations have a strong 400k year cycle. That cycle is only clearly present in climate records older than the last million years.
-	        \ddd Stage 5 problem refers to the timing of the penultimate interglacial that appears to have begun 10k years in advance of the solar forcing hypothesized to have caused it.
-	        \ddd Effect exceeds cause climate behavior is much more intense than calculated variations. Various internal characteristics of climate systems are believed to be sensitive to the insolation changes, causing amplification(positive feedback) and damping reponses(negative feedback)
-	        
-        \pagebreak
+	        \ddd \vocab{\textbf{100,000 year Problem eccentricity}} variations have a significantly smaller impact on solar forcing than precession or obliquity and may be expected to produce the weakest effects. The greatest observed response is at the 100k year timescale, while the theoretical forcing is smaller at this scale, in regard to the ice ages. During the last 1 million years, the strongest climate signal is the 100k year cycle.
+	        \ddd \vocab{\textbf{400,000 year Problem}} (aka stage 11 problem) eccentricity variations have a strong 400k year cycle. That cycle is only clearly present in climate records older than the last million years.
+	        \ddd \vocab{Stage 5} problem refers to the timing of the penultimate interglacial that appears to have begun 10k years in advance of the solar forcing hypothesized to have caused it.
         \mysection{Where are glaciers found?}
             \ddd Antarctica:	\pink{ }
             \ddd Greenland:	1,784,000
@@ -337,6 +325,7 @@
 		    \mysubsub{Glacier} and ice sheet all melted = a sea level rise of over 300 feet
 		    \mysubsub{Speed} of glaciers is as high as moving 150 feet per day
 		    \mysubsub{A single} glacier ice crystal can grow to the size of a baseball
+	\pagebreak \tiny
 	\mysection{Vocabulary} 
 		\ddd
         Ablation Area: The area of a glacier where more glacier mass is lost than gained\ddd
@@ -473,6 +462,5 @@
         Valley glacier: a mountain glacier whose flow is confined by valley walls\ddd
         Wave ogives: ogives that show some vertical relief on a glacier; usually the dark bands are in the hollows and the light bands are in the ridges; form at the base of steep, narrow ice falls\ddd
         Weathered ice: glacier ice that has been exposed to sun or warm wind so that the boundaries between ice crystals are partly disintegrated\ddd
-	   	
 	\end{multicols*}
 \end{document}

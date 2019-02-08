@@ -1,0 +1,135 @@
+\ddd
+        Ablation Area: The area of a glacier where more glacier mass is lost than gained\ddd
+        Ablation Hollows: Depressions in the snow surface caused by the sun or warm, gusty wind\ddd
+        Ablation Moraine: Mound or layer of moraine in the ablation zone of a glacier; the rock has been plucked from the mountainside by the moving glacier and is melting out on the ice surface\ddd
+        Ablation Season: Period during which glaciers lose more mass than they gain; usually coincides with summer\ddd
+        Ablation Zone: Area or zone of a glacier where snow and ice ablation exceed accumulation\ddd
+        Accumulation Area: Area of a glacier where more mass is gained than lost\ddd
+        Accumulation Season: Period during which a glacier gains more mass than it loses usually coincides with winter\ddd
+        Accumulation Zone: Area of a glacier where more mass is gained than lost\ddd
+        Advance: When a mountain glacier’s terminus extends farther down valley than before; glacial advance occurs when a glacier flows down valley faster than the rate of ablation at its terminus\ddd
+        Alpine Glacier: A glacier that is confined by surrounding mountain terrain; also called a mountain glacier \ddd
+        Arête: Sharp, narrow ridge formed as a result of glacial erosion from both sides \ddd 
+        Band Ogives: Alternate bands of light and dark on a glacier; usually found below steep narrow icefalls and thought to be the result of different flow and ablation rates between summer and winter\ddd
+        Basal Sliding: The sliding of a glacier over bedrock\ddd
+        Bergschrund: (Rimaye) Crevasse that separates flowing ice from stagnant ice at the head of a glacier\ddd
+        Branched-Valley Glacier: Glacier that has one or more tributary glaciers that flow into it; distinguished from a simple valley glacier that has only a single tributary glacier\ddd
+        Catchment Glacier: A semi permanent mass of firn formed by drifted snow behind obstructions or in the ground; also called a snowdrift glacier or a drift glacier\ddd
+        Chattermarks: Striations or marks left on the surface of exposed bedrock caused by the advance and retreat of glacier ice\ddd
+        Cirque: Bowl shaped or amphitheater usually sculpted out of the mountain terrain by a cirque glacier\ddd
+        Cirque Glacier: Glacier that resides in basins or amphitheaters near ridge crests; most cirque glaciers have a characteristic circular shape, with their width as wide or wider than their length\ddd
+        Cold Glacier: Glacier in which most of the ice is below the pressure melting point; nonetheless the glacier’s surface may be susceptible to melt due to incoming solar radiation, and the ice at the rock/ice interface may be warmed as a result of the natural (geothermal) heat from the earth’s surface\ddd
+        Compression Flow: Flow that occurs when glacier motion is decelerating down-slope\ddd
+        Constructive Metamorphism: Snow metamorphism that adds molecules to sharpen the corners and edges of an ice crystal\ddd
+        Crevasse: Open fissure in the glacier surface\ddd
+        Crevasse Hoar: A kind of hoarfrost; ice crystals that develop by sublimation in glacial crevasses and in other cavities with cooled space and calm, still conditions under which water vapor can accumulate; physical origin is similar to depth hoar\ddd
+        Dead Ice: Any part of a glacier which has ceased to flow; dead ice is usually covered with moraine\ddd
+        Dirt Cone: A cone-shaped formation of ice that is covered by dirt; a dirt cone is caused by a differential pattern of ablation between the dirt-covered surface and bare ice\ddd
+        Drain Channel: Preferred path for meltwater to flow from the surface through a snow cover\ddd
+        Drift Glacier: A semi-permanent mass of firn formed by drifted snow behind obstructions or in the ground; also called a catchment glacier or a snowdrift glacier\ddd
+        Drumlin: Remnant elongated hills formed by historical glacial action; it is not clear exactly how they are formed and why they form only in some glaciated regions\ddd
+        Dump Moraine: A mound or layer of moraine formed along the edge of a glacier by rocks that fall off the ice; sometimes called a ground moraine\ddd
+        End Moraine: An arch-shaped ridge of moraine found near the end of a glacier\ddd
+        Equilibrium Zone: Zone of a glacier in which the amount of precipitation that falls is equal to the amount that melts the following summer\ddd
+        Esker: A sinuous ridge of sedimentary material (typically gravel or sand) deposited by streams that cut channels under or through the glacier ice\ddd
+        Extending flow: when glacier motion is accelerating down-slope\ddd
+        False ogives: bands of light and dark on a glacier that were formed by rock avalanching\ddd
+        Fjord: glacial troughs that fill with seawater\ddd
+        Foliation: layering in glacier ice that has distinctive crystal sizes and/or bubbles; foliation is usually caused by stress and deformation that a glacier experiences as it flows over complex terrain, but can also originate as a sedimentary feature\ddd
+        Forbes bands: alternate bands of light and dark on a glacier; usually found below steep narrow icefalls and thought to be the result of different flow and ablation rates between summer and winter\ddd
+        Forel stripes: shallow, parallel grooves on the face of a large melting ice crystal\ddd 
+        Geyser: Fountain that develops when water from a conduit is forced up to the surface of a glacier; also called a negative mill\ddd
+        Glacial advance: when a mountain glacier's terminus extends farther downvalley than before; occurs when a glacier flows downvalley faster than the rate of ablation at its terminus\ddd
+        Glacial Erratic: a boulder swept from its place of origin by glacier advance or retreat and deposited elsewhere as the glacier melted; after glacial melt, the boulder might be stranded in a field or forest where no other rocks of its type or size exist\ddd
+        Glacial grooves: grooves or gouges cut into the bedrock by gravel and rocks carried by glacial ice and meltwater; also called glacial striations\ddd
+        Glacial retreat: when the position of a mountain glacier's terminus is farther upvalley than before; occurs when a glacier ablates more material at its terminus than it transports into that region\ddd
+        Glacial striations: grooves or gouges cut into the bedrock by gravel and rocks carried by glacial ice and meltwater; also called glacial grooves\ddd
+        Glacial till: accumulations of unsorted, unstratified mixtures of clay, silt, sand, gravel, and boulders; the usual composition of a moraine\ddd
+        Glacial trough: a large u-shaped valley formed from a v-shaped valley by glacial erosion\ddd
+        Glaciated: land covered in the past by any form of glacier is said to be glaciated\ddd
+        Glacier: a mass of ice that originates on land, usually having an area larger than one-tenth of a square kilometer; many believe that a glacier must show some type of movement; others believe that a glacier can show evidence of past or present movement\ddd
+        Glacier cave: a cave of ice, usually underneath a glacier and formed by meltwater; cave entrances are often enlarged near a glacier terminus by warm winds; most common on stagnant portions of glaciers\ddd
+        Glacier fire: a phenomenon in which strong reflection of the sun on an icy surface causes a glacier to look like it is on fire\ddd
+        Glacier flood: a sudden outburst of water released by a glacier\ddd
+        Glacier flour: a fine powder of silt- and clay-sized particles that a glacier creates as its rock-laden ice scrapes over bedrock; usually flushed out in meltwater streams and causes water to look powdery gray; lakes and oceans that fill with glacier flour may develop a banded appearance; also called rock flour\ddd
+        Glacier ice: well-bonded ice crystals compacted from snow with a bulk density greater than 860 kilograms per cubic meter (55 pounds per cubic-foot)\ddd
+        Glacier mill: a nearly vertical channel in ice that is formed by flowing water; usually found after a relatively flat section of glacier in a region of transverse crevasses\ddd
+        Glacier pothole: potholes formed at the bottom of glaciers through erosion caused by sand and gravel in melt-water; melt-water seeps through crevasses in the glaciers, sometimes forming whirlpools; at the bottom of the glacier, the water is under very high pressure, leading to erosion of underlying rocks\ddd
+        Glacier remainie: a glacier that is reconstructed or reconstituted out of other glacier material; usually formed by seracs falling from a hanging glacier, then re-adhering; also called reconstituted, reconstructed or regenerated glacier\ddd
+        Glacier snout: the lowest end of a glacier; also called glacier terminus or toe\ddd
+        Glacier sole: the bottom of the ice of a glacier\ddd
+        Glacier table: a rock that resides on a pedestal of ice; formed by differential ablation between the rock-covered ice and surrounding bare ice\ddd
+        Glacier terminus: the lowest end of a glacier; also called glacier snout or toe\ddd
+        Glacier toe: the lowest end of a glacier; also called glacier snout or terminus\ddd
+        Glacier trough: u-shaped valleys transformed from v-shaped stream valleys due to erosion caused by passing glaciers\ddd
+        Glacieret: a very small glacier\ddd
+        Glacierized: land overlaid at present by a glacier is said to be covered; the alternative term glacierized has not found general favour\ddd
+        Ground moraine: continuous layer of till near the edge or underneath a steadily retreating glacier\ddd
+        Hanging glacier: a glacier that terminates at or near the top of a cliff\ddd
+        Hanging valley: a valley formed by a small glacier that has a valley bottom relatively higher than nearby valleys formed by larger glaciers\ddd
+        Headwall: a steep cliff, usually the uppermost part of a cirque\ddd
+        Horn: a peak or pinnacle thinned and eroded by three or more glacial cirques\ddd
+        Ice apron: a mass of ice adhering to a mountainside\ddd
+        Ice cap: a dome-shaped mass of glacier ice that spreads out in all directions; an ice cap is usually larger than an icefield but less than 50,000 square kilometers (12 million acres)\ddd
+        Ice cave: a cave of ice, usually underneath a glacier and formed by meltwater; cave entrances are often enlarged near a glacier terminus by warm winds; most common on stagnant portions of glaciers\ddd
+        Ice covered: land overlaid at present by a glacier is said to be covered; the alternative term glacierized has not found general favor\ddd
+        Ice divide: the boundary separating opposing flow directions of ice on a glacier or ice sheet\ddd
+        Ice Dome: ice surface with parabolic surface; located in accumulation zone \ddd 
+        Ice quake: a shaking of ice caused by crevasse formation or jerky motion\ddd
+        Ice sheet: a dome-shaped mass of glacier ice that covers surrounding terrain and is greater than 50,000 square kilometers (12 million acres), the Greenland and Antarctic ice sheets)\ddd
+        Ice stream: (1) a current of ice in an ice sheet or ice cap that flows faster than the surrounding ice (2) sometimes refers to the confluent sections of a branched-valley glacier (3) obsolete synonym of valley glaciers\ddd
+        Ice-cemented glacier: a rock glacier that has interstitial ice a meter or so below the surface\ddd
+        Ice-cored glacier: a rock glacier that has a buried core of ice\ddd
+        Icefall: part of a glacier with rapid flow and a chaotic crevassed surface; occurs where the glacier bed steepens or narrows\ddd
+        Ice field: a mass of glacier ice; similar to an ice cap, and usually smaller and lacking a dome-like shape; somewhat controlled by terrain\ddd
+        Jokulhlaup: (1) a large outburst flood that usually occurs when a glacially dammed lake drains catastrophically (2) any catastrophic release of water from a glacier\ddd
+        Lateral moraine: a ridge-shaped moraine deposited at the side of a glacier and composed of material eroded from the valley walls by the moving glacier\ddd
+        Marginal crevasse: a crevasse near the side of a glacier formed as the glacier moves past stationary valley walls; usually oriented about 45 degrees up-glacier from the side wall\ddd
+        Medial moraine: a ridge-shaped moraine in the middle of a glacier originating from a rock outcrop, nunatak, or the converging lateral moraines of two or more ice streams\ddd
+        Meltwater conduit: a channel within, underneath, on top of, or near the side of a glacier that drains meltwater out of the glacier; usually kept open by the frictional heating of flowing water that melts the ice walls of the conduit\ddd
+        Moraine: a mound, ridge, or other distinct accumulation of glacial till\ddd
+        Moraine shoal: glacial moraine that has formed a shallow place in water\ddd
+        Moulin: a nearly vertical channel in ice that is formed by flowing water; usually found after a relatively flat section of glacier in a region of transverse crevasses; also called a pothole\ddd
+        Mountain glacier: a glacier that is confined by surrounding mountain terrain; also called an alpine glacier\ddd
+        Negative mill: a geyser; a fountain that develops when water from a conduit is forced up to the surface of a glacier\ddd
+        Niche glacier: very small glacier that occupies gullies and hollows on north-facing slopes (northern hemisphere); may develop into cirque glacier if conditions are favorable\ddd
+        Nunatak: a rocky crag or small mountain projecting from and surrounded by a glacier or ice sheet\ddd
+        Ogives: alternate bands of light and dark ice seen on a glacier surface\ddd
+        Outburst flood: any catastrophic flooding from a glacier; may originate from trapped water in cavities inside a glacier or at the margins of glaciers or from lakes that are dammed by flowing glaciers\ddd
+        Outlet glacier: a valley glacier which drains an inland ice sheet or ice cap and flows through a gap in peripheral mountains\ddd
+        Patterned grounds: consists of mostly symmetrical geometries displayed across the ground surface in relation to local frost action and cryogenic processes. Patterns emerge as a result of surface disturbances caused by thermal anomalies and freeze processes such as frost heave. Frost heave will disturb the frost layer as ice lenses accumulate and protrude, causing unstable soil conditions. Can be polygons, circles, stripes, nets, and steps. \ddd
+        Paternoster lakes: a series of tarns connected by a single stream or a braided stream system\ddd
+        Periglacial: relating to or denoting an area adjacent to a glacier or ice sheet or otherwise subject to repeated freezing and thawing \ddd        
+        Piedmont glacier: large ice lobe spread out over surrounding terrain, associated with the terminus of a large mountain valley glacier\ddd
+        Pingo: also called hydrolaccolith or bulgunniakh, is a mound of earth-covered ice found in the Arctic and subarctic that can reach up to 70 metres in height and up to 600 m in diameter. \ddd       
+        Polar glacier: a glacier entirely below freezing, except possibly for a thin layer of melt near the surface during summer or near the bed; polar glaciers are found only in polar regions of the globe or at high altitudes\ddd
+        Pothole: a nearly vertical channel in ice that is formed by flowing water; usually found after a relatively flat section of glacier in a region of transverse crevasses; also called a moulin\ddd
+        Push moraine: moraine built out ahead of an advancing glacier\ddd
+        Randkluft: a fissure that separates a moving glacier from its headwall rock; like a bergschrund\ddd
+        Reconstituted glacier: a glacier that is reconstructed or reconstituted out of other glacier material; usually formed by seracs falling from a hanging glacier then re-adhering; also called reconstructed glacier, regenerated glacier, or glacier remainie\ddd
+        Reconstructed glacier: a glacier that is reconstructed or reconstituted out of other glacier material; usually formed by seracs falling from a hanging glacier then re-adhering; also called reconstituted glacier, regenerated glacier, or glacier remainie\ddd
+        Regelation: motion of an object through ice by melting and freezing that is caused by pressure differences; this process allows a glacier to slide past small obstacles on its bed\ddd
+        Regenerated glacier: a glacier that is reconstructed or reconstituted out of other glacier material; usually formed by seracs falling from a hanging glacier then re-adhering; also called reconstituted or reconstructed glacier, or glacier remainie\ddd
+        Retreat: when a mountain glacier's terminus doesn't extend as far downvalley as it previously did; occurs when ablation surpasses accumulation\ddd
+        Retreating glacier: a glacier whose terminus is increasingly retreating upvalley compared to its previous position due to a higher level of ablation compared to accumulation\ddd
+        Rock flour: a fine powder of silt- and clay-sized particles that a glacier creates as its rock-laden ice scrapes over bedrock; usually flushed out in meltwater streams, causing water to look powdery gray; lakes and oceans that fill with glacier flour may develop a banded appearance\ddd
+        Rock glacier: looks like a mountain glacier and has active flow; usually includes a poorly sorted mess of rocks and fine material; may include: (1) interstitial ice a meter or so below the surface (“ice-cemented”), (2) a buried core of ice (“ice-cored”), and/or (3) rock debris from avalanching snow and rock\ddd
+        Rogen Moraine: A Rogen moraine (also called ribbed moraine) is a subglacially (i.e. under a glacier or ice sheet) formed type of moraine landform, that mainly occurs in Fennoscandia, Scotland, Ireland and Canada. They cover large areas that have been covered by ice, and occur mostly in what is believed to have been the central areas of the ice sheets \ddd
+        Sastrugi: parallel wave-like ridges caused by winds on the surface of hard snow, especially in polar regions. \ddd
+        Sedimentary ogives: alternating bands of light and dark at the firn limit of a glacier; the light bands are usually young and lightest at the highest level up-glacier, becoming increasingly older and darker as they progress down-glacier\ddd
+        Serac: an isolated block of ice that is formed where the glacier surface is fractured\ddd
+        Sichelwannen- curved grooves formed by water under immense pressure at the base of a glacier \ddd
+        Sintering: the bonding together of ice crystals\ddd
+        Snowdrift glacier: a semipermanent mass of firn formed by drifted snow behind obstructions or in the ground; also called a catchment glacier or a drift glacier\ddd
+        Splay crevasse: a crevasse pattern that forms where ice slowly spreads out sideways; commonly found near a glacier terminus\ddd
+        Sub polar glacier: a glacier whose temperature regime is between polar and temperate; usually predominantly below freezing, but could experience extensive summer melt\ddd
+        Surging glacier: a glacier that experiences a dramatic increase in flow rate, 10 to 100 times faster than its normal rate; usually surge events last less than one year and occur periodically, between 15 and 100 years\ddd
+        Tarn: a small mountain lake or pool; a mountain lake formed in a cirque excavated by a glacier. A moraine may form a natural dam below a tarn\ddd
+        Terminus: the lowest end of a glacier, also called the glacier toe or glacier snout\ddd
+        Thomson crystal: a large ice crystal found in deep, stagnant water-filled cavities of a glacier\ddd
+        Tidewater glacier: mountain glacier that terminates in the ocean\ddd
+        Tongue: a projection of the ice edge up to several km in length caused by wind and current; usually forms when a valley glacier moves very quickly into a lake or ocean\ddd
+        Tributary glacier: a small glacier that flows into a larger glacier\ddd
+        Valley glacier: a mountain glacier whose flow is confined by valley walls\ddd
+        Wave ogives: ogives that show some vertical relief on a glacier; usually the dark bands are in the hollows and the light bands are in the ridges; form at the base of steep, narrow ice falls\ddd
+        Weathered ice: glacier ice that has been exposed to sun or warm wind so that the boundaries between ice crystals are partly disintegrated
