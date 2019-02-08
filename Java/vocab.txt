@@ -1,4 +1,3 @@
-\ddd
         Ablation Area: The area of a glacier where more glacier mass is lost than gained\ddd
         Ablation Hollows: Depressions in the snow surface caused by the sun or warm, gusty wind\ddd
         Ablation Moraine: Mound or layer of moraine in the ablation zone of a glacier; the rock has been plucked from the mountainside by the moving glacier and is melting out on the ice surface\ddd
