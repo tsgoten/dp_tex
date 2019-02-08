@@ -215,18 +215,18 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 ) (./DP.aux)
 \openout1 = `DP.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -236,22 +236,22 @@ LaTeX Font Info:    ... okay on input line 40.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: landscape 
-* h-part:(L,W,R)=(3.61371pt, 787.74257pt, 3.61371pt)
-* v-part:(T,H,B)=(3.61371pt, 607.06758pt, 3.61371pt)
+* h-part:(L,W,R)=(0.0pt, 794.96999pt, 0.0pt)
+* v-part:(T,H,B)=(0.0pt, 614.295pt, 0.0pt)
 * \paperwidth=794.96999pt
 * \paperheight=614.295pt
-* \textwidth=787.74257pt
-* \textheight=607.06758pt
-* \oddsidemargin=-68.65628pt
-* \evensidemargin=-68.65628pt
-* \topmargin=-105.65628pt
+* \textwidth=794.96999pt
+* \textheight=614.295pt
+* \oddsidemargin=-72.26999pt
+* \evensidemargin=-72.26999pt
+* \topmargin=-109.26999pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=10.0pt
 * \footskip=30.0pt
 * \marginparwidth=65.0pt
 * \marginparsep=11.0pt
-* \columnsep=7.22743pt
+* \columnsep=3.61371pt
 * \skip\footins=9.0pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
@@ -322,115 +322,56 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-<NOAASeaLevel.jpg, id=1, 458.0493pt x 302.31253pt>
-File: NOAASeaLevel.jpg Graphic file (type jpg)
-<use NOAASeaLevel.jpg>
-Package pdftex.def Info: NOAASeaLevel.jpg  used on input line 65.
-(pdftex.def)             Requested size: 191.51506pt x 126.39839pt.
-<ice_ages1.jpg, id=2, 542.025pt x 211.79124pt>
+<ice_ages1.jpg, id=1, 542.025pt x 211.79124pt>
 File: ice_ages1.jpg Graphic file (type jpg)
 <use ice_ages1.jpg>
-Package pdftex.def Info: ice_ages1.jpg  used on input line 142.
-(pdftex.def)             Requested size: 191.51506pt x 74.83255pt.
+Package pdftex.def Info: ice_ages1.jpg  used on input line 145.
+(pdftex.def)             Requested size: 196.03221pt x 76.59703pt.
+<hydrology.jpg, id=2, 976.64874pt x 476.78125pt>
+File: hydrology.jpg Graphic file (type jpg)
+<use hydrology.jpg>
+Package pdftex.def Info: hydrology.jpg  used on input line 154.
+(pdftex.def)             Requested size: 196.03221pt x 95.69649pt.
 <landforms.jpg, id=3, 321.2pt x 199.74625pt>
 File: landforms.jpg Graphic file (type jpg)
 <use landforms.jpg>
-Package pdftex.def Info: landforms.jpg  used on input line 151.
-(pdftex.def)             Requested size: 191.51506pt x 119.10193pt.
-<mtnglacier.jpg, id=4, 496.85625pt x 302.12875pt>
-File: mtnglacier.jpg Graphic file (type jpg)
-<use mtnglacier.jpg>
-Package pdftex.def Info: mtnglacier.jpg  used on input line 152.
-(pdftex.def)             Requested size: 191.51506pt x 116.45592pt.
-<moraines.jpg, id=5, 451.6875pt x 400.49625pt>
+Package pdftex.def Info: landforms.jpg  used on input line 155.
+(pdftex.def)             Requested size: 196.03221pt x 121.90903pt.
+<moraines.jpg, id=4, 451.6875pt x 400.49625pt>
 File: moraines.jpg Graphic file (type jpg)
 <use moraines.jpg>
-Package pdftex.def Info: moraines.jpg  used on input line 153.
-(pdftex.def)             Requested size: 191.51506pt x 169.81448pt.
-<Glacier_Types.jpg, id=6, 746.01291pt x 559.50967pt>
+Package pdftex.def Info: moraines.jpg  used on input line 156.
+(pdftex.def)             Requested size: 196.03221pt x 173.81723pt.
+<Glacier_Types.jpg, id=5, 746.01291pt x 559.50967pt>
 File: Glacier_Types.jpg Graphic file (type jpg)
 <use Glacier_Types.jpg>
-Package pdftex.def Info: Glacier_Types.jpg  used on input line 154.
-(pdftex.def)             Requested size: 191.51506pt x 143.63353pt.
-<hydrology.jpg, id=7, 459.1554pt x 219.219pt>
-File: hydrology.jpg Graphic file (type jpg)
-<use hydrology.jpg>
-Package pdftex.def Info: hydrology.jpg  used on input line 155.
-(pdftex.def)             Requested size: 191.51506pt x 91.43913pt.
-<laurentideicesheet.jpg, id=8, 746.01291pt x 559.50967pt>
-File: laurentideicesheet.jpg Graphic file (type jpg)
-<use laurentideicesheet.jpg>
-Package pdftex.def Info: laurentideicesheet.jpg  used on input line 156.
-(pdftex.def)             Requested size: 191.51506pt x 143.63353pt.
-<larsencollapses.jpg, id=9, 403.5075pt x 351.3125pt>
-File: larsencollapses.jpg Graphic file (type jpg)
-<use larsencollapses.jpg>
-Package pdftex.def Info: larsencollapses.jpg  used on input line 157.
-(pdftex.def)             Requested size: 191.51506pt x 166.74115pt.
-<glacierflow2.jpg, id=10, 930.47626pt x 714.67pt>
+Package pdftex.def Info: Glacier_Types.jpg  used on input line 157.
+(pdftex.def)             Requested size: 196.03221pt x 147.02289pt.
+<glacierflow2.jpg, id=6, 930.47626pt x 714.67pt>
 File: glacierflow2.jpg Graphic file (type jpg)
 <use glacierflow2.jpg>
 Package pdftex.def Info: glacierflow2.jpg  used on input line 158.
-(pdftex.def)             Requested size: 191.51506pt x 147.09715pt.
-<AblationAccumulationZones.jpg, id=11, 408.52625pt x 222.8325pt>
-File: AblationAccumulationZones.jpg Graphic file (type jpg)
-<use AblationAccumulationZones.jpg>
-Package pdftex.def Info: AblationAccumulationZones.jpg  used on input line 164.
-
-(pdftex.def)             Requested size: 191.51506pt x 104.46268pt.
-<mbMeas.jpg, id=12, 211.2693pt x 136.3494pt>
-File: mbMeas.jpg Graphic file (type jpg)
-<use mbMeas.jpg>
-Package pdftex.def Info: mbMeas.jpg  used on input line 215.
-(pdftex.def)             Requested size: 191.51506pt x 123.60168pt.
-<Larsen_contours.jpg, id=13, 276.03125pt x 290.08376pt>
+(pdftex.def)             Requested size: 98.0161pt x 75.27701pt.
+<Larsen_contours.jpg, id=7, 276.03125pt x 290.08376pt>
 File: Larsen_contours.jpg Graphic file (type jpg)
 <use Larsen_contours.jpg>
-Package pdftex.def Info: Larsen_contours.jpg  used on input line 231.
-(pdftex.def)             Requested size: 191.51506pt x 201.27342pt.
-<Quelccaya_Glacier.jpg, id=14, 220.825pt x 147.55125pt>
-File: Quelccaya_Glacier.jpg Graphic file (type jpg)
-<use Quelccaya_Glacier.jpg>
-Package pdftex.def Info: Quelccaya_Glacier.jpg  used on input line 279.
-(pdftex.def)             Requested size: 191.51506pt x 127.97227pt.
-<series.png, id=15, 1183.42125pt x 624.83438pt>
-File: series.png Graphic file (type png)
-<use series.png>
-Package pdftex.def Info: series.png  used on input line 280.
-(pdftex.def)             Requested size: 191.51506pt x 101.1101pt.
+Package pdftex.def Info: Larsen_contours.jpg  used on input line 158.
+(pdftex.def)             Requested size: 98.0161pt x 103.00479pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 119--291
-[][][][][][] $[]$ []\OT1/cmr/m/n/5 Ac-cu-
- []
-
-
-Underfull \hbox (badness 6032) in paragraph at lines 119--291
-[]$ \OT1/cmr/m/n/5 The point across a glacier where ac-cu-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 119--291
-
+Overfull \hbox (1.66669pt too wide) in paragraph at lines 54--465
+[] []
  []
 
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./NOAASeaLevel.jpg> <./ice
-_ages1.jpg> <./landforms.jpg> <./mtnglacier.jpg> <./moraines.jpg> <./Glacier_Ty
-pes.jpg> <./hydrology.jpg> <./laurentideicesheet.jpg> <./larsencollapses.jpg> <
-./glacierflow2.jpg>] [2 <./AblationAccumulationZones.jpg> <./mbMeas.jpg> <./Lar
-sen_contours.jpg> <./Quelccaya_Glacier.jpg> <./series.png>]
-Underfull \hbox (badness 7291) in paragraph at lines 293--472
-[][][][][][][] $\OMS/cmsy/m/n/5 ^^O$\OT1/cmr/m/n/5 Antarctica: [][] $\OMS/cmsy/
-m/n/5 ^^O$\OT1/cmr/m/n/5 Greenland:
- []
-
-[3] (./DP.aux) ) 
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./ice_ages1.jpg> <./hydrol
+ogy.jpg> <./landforms.jpg> <./moraines.jpg> <./Glacier_Types.jpg> <./glacierflo
+w2.jpg> <./Larsen_contours.jpg>] [2] [3] (./DP.aux) ) 
 Here is how much of TeX's memory you used:
- 3308 strings out of 492641
- 44525 string characters out of 6131787
- 205941 words of memory out of 5000000
- 7150 multiletter control sequences out of 15000+600000
+ 3269 strings out of 492641
+ 43674 string characters out of 6131787
+ 288875 words of memory out of 5000000
+ 7119 multiletter control sequences out of 15000+600000
  4884 words of font info for 18 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,5n,35p,969b,264s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -443,8 +384,8 @@ ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmti7.pfb>
 Output written on DP.pdf (3 pages, 1127380 bytes).
 PDF statistics:
- 59 PDF objects out of 1000 (max. 8388607)
- 30 compressed objects within 1 object stream
+ 49 PDF objects out of 1000 (max. 8388607)
+ 29 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 76 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
 
