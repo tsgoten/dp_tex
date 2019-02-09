@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2018.12.2)  8 FEB 2019 12:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2018.12.2)  9 FEB 2019 06:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -357,8 +357,113 @@ File: Larsen_contours.jpg Graphic file (type jpg)
 <use Larsen_contours.jpg>
 Package pdftex.def Info: Larsen_contours.jpg  used on input line 158.
 (pdftex.def)             Requested size: 98.0161pt x 103.00479pt.
+<iceshelf_locations.png, id=8, 1606.0pt x 1290.8225pt>
+File: iceshelf_locations.png Graphic file (type png)
+<use iceshelf_locations.png>
+Package pdftex.def Info: iceshelf_locations.png  used on input line 329.
+(pdftex.def)             Requested size: 196.03221pt x 157.55101pt.
+<othersea.jpg, id=10, 513.92pt x 228.855pt>
+File: othersea.jpg Graphic file (type jpg)
+<use othersea.jpg>
+Package pdftex.def Info: othersea.jpg  used on input line 330.
+(pdftex.def)             Requested size: 196.03221pt x 87.29753pt.
+<arctic.png, id=11, 933.4875pt x 923.45pt>
+File: arctic.png Graphic file (type png)
+<use arctic.png>
+Package pdftex.def Info: arctic.png  used on input line 331.
+(pdftex.def)             Requested size: 98.0161pt x 96.95805pt.
+<lgm.jpg, id=12, 216.81pt x 157.5486pt>
+File: lgm.jpg Graphic file (type jpg)
+<use lgm.jpg>
+Package pdftex.def Info: lgm.jpg  used on input line 331.
+(pdftex.def)             Requested size: 98.0161pt x 71.22556pt.
+<na.jpg, id=13, 494.84875pt x 513.92pt>
+File: na.jpg Graphic file (type jpg)
+<use na.jpg>
+Package pdftex.def Info: na.jpg  used on input line 332.
+(pdftex.def)             Requested size: 196.03221pt x 203.58823pt.
+<corrie.png, id=14, 722.7pt x 542.025pt>
+File: corrie.png Graphic file (type png)
+<use corrie.png>
+Package pdftex.def Info: corrie.png  used on input line 333.
+(pdftex.def)             Requested size: 98.0161pt x 73.50931pt.
+<milan.jpg, id=15, 265.99374pt x 190.7125pt>
+File: milan.jpg Graphic file (type jpg)
+<use milan.jpg>
+Package pdftex.def Info: milan.jpg  used on input line 333.
+(pdftex.def)             Requested size: 98.0161pt x 70.27441pt.
+<seaice.png, id=16, 677.53125pt x 377.41pt>
+File: seaice.png Graphic file (type png)
+<use seaice.png>
+Package pdftex.def Info: seaice.png  used on input line 334.
+(pdftex.def)             Requested size: 196.03221pt x 109.19846pt.
+<southern.jpg, id=17, 949.5475pt x 817.0525pt>
+File: southern.jpg Graphic file (type jpg)
+<use southern.jpg>
+Package pdftex.def Info: southern.jpg  used on input line 335.
+(pdftex.def)             Requested size: 98.0161pt x 84.32814pt.
+<greenland.jpg, id=18, 853.1875pt x 725.71124pt>
+File: greenland.jpg Graphic file (type jpg)
+<use greenland.jpg>
+Package pdftex.def Info: greenland.jpg  used on input line 335.
+(pdftex.def)             Requested size: 98.0161pt x 83.3609pt.
+<fjord.png, id=19, 113.9457pt x 78.7743pt>
+File: fjord.png Graphic file (type png)
+<use fjord.png>
+Package pdftex.def Info: fjord.png  used on input line 336.
+(pdftex.def)             Requested size: 98.0161pt x 67.7614pt.
+<glacier.png, id=20, 180.675pt x 105.87555pt>
+File: glacier.png Graphic file (type png)
+<use glacier.png>
+Package pdftex.def Info: glacier.png  used on input line 336.
+(pdftex.def)             Requested size: 98.0161pt x 57.43687pt.
+<lauren.jpg, id=21, 347.2975pt x 328.22626pt>
+File: lauren.jpg Graphic file (type jpg)
+<use lauren.jpg>
+Package pdftex.def Info: lauren.jpg  used on input line 337.
+(pdftex.def)             Requested size: 98.0161pt x 92.63393pt.
+<cordi.jpg, id=22, 456.70625pt x 276.03125pt>
+File: cordi.jpg Graphic file (type jpg)
+<use cordi.jpg>
+Package pdftex.def Info: cordi.jpg  used on input line 337.
+(pdftex.def)             Requested size: 98.0161pt x 59.24025pt.
+<wordlmap.jpg, id=23, 521.95pt x 258.9675pt>
+File: wordlmap.jpg Graphic file (type jpg)
+<use wordlmap.jpg>
+Package pdftex.def Info: wordlmap.jpg  used on input line 338.
+(pdftex.def)             Requested size: 196.03221pt x 97.26271pt.
+<filler.jpg, id=24, 480.29437pt x 274.02374pt>
+File: filler.jpg Graphic file (type jpg)
+<use filler.jpg>
+Package pdftex.def Info: filler.jpg  used on input line 339.
+(pdftex.def)             Requested size: 142.26378pt x 81.16661pt.
 
-Overfull \hbox (1.66669pt too wide) in paragraph at lines 54--329
+Overfull \hbox (1.66669pt too wide) in paragraph at lines 54--341
+[] []
+ []
+
+
+Overfull \hbox (1.66669pt too wide) in paragraph at lines 54--341
+[] []
+ []
+
+
+Overfull \hbox (1.66669pt too wide) in paragraph at lines 54--341
+[] []
+ []
+
+
+Overfull \hbox (1.66669pt too wide) in paragraph at lines 54--341
+[] []
+ []
+
+
+Overfull \hbox (1.66669pt too wide) in paragraph at lines 54--341
+[] []
+ []
+
+
+Overfull \hbox (1.66669pt too wide) in paragraph at lines 54--341
 [] []
  []
 
@@ -366,27 +471,30 @@ Overfull \hbox (1.66669pt too wide) in paragraph at lines 54--329
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./ice_ages1.jpg> <./hydrol
 ogy.jpg> <./landforms.jpg> <./moraines.jpg> <./Glacier_Types.jpg> <./glacierflo
-w2.jpg> <./Larsen_contours.jpg>] [2] [3] (./DP.aux) ) 
+w2.jpg> <./Larsen_contours.jpg>] [2 <./iceshelf_locations.png> <./othersea.jpg>
+ <./arctic.png (PNG copy)> <./lgm.jpg> <./na.jpg> <./corrie.png> <./milan.jpg> 
+<./seaice.png> <./southern.jpg> <./greenland.jpg> <./fjord.png> <./glacier.png>
+ <./lauren.jpg> <./cordi.jpg> <./wordlmap.jpg> <./filler.jpg>] [3] (./DP.aux) )
+ 
 Here is how much of TeX's memory you used:
- 3269 strings out of 492641
- 43674 string characters out of 6131787
- 225587 words of memory out of 5000000
- 7119 multiletter control sequences out of 15000+600000
+ 3349 strings out of 492641
+ 44838 string characters out of 6131787
+ 228838 words of memory out of 5000000
+ 7183 multiletter control sequences out of 15000+600000
  4884 words of font info for 18 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,5n,35p,969b,266s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-
-dist/fonts/type1/public/amsfonts/cm/cmbx5.pfb></usr/share/texlive/texmf-dist/fo
-nts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/share/texlive/texmf-dist/fonts/
-type1/public/amsfonts/cm/cmmi5.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
-ublic/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmsy5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti
-7.pfb>
-Output written on DP.pdf (3 pages, 603010 bytes).
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx5.pfb></usr/s
+hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/texlive/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmti7.pfb>
+Output written on DP.pdf (3 pages, 3993260 bytes).
 PDF statistics:
- 49 PDF objects out of 1000 (max. 8388607)
- 29 compressed objects within 1 object stream
+ 70 PDF objects out of 1000 (max. 8388607)
+ 30 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 116 words of extra memory for PDF output out of 10000 (max. 10000000)
 
