@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2018.12.2)  12 FEB 2019 16:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2018.12.2)  15 FEB 2019 13:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -212,21 +212,239 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \float@box=\box55
 \@float@everytoks=\toks23
 \@floatcapt=\box56
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/04/06 v1.3b Input encoding file
+\inpenc@prehook=\toks24
+\inpenc@posthook=\toks25
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2017/04/05 v2.0i Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/ebgaramond/ebgaramond.sty
+Package: ebgaramond 2014/11/25 (Bob Tennent and autoinst) Style file for EB Gar
+amond fonts.
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks26
+\XKV@tempa@toks=\toks27
+)
+\XKV@depth=\count114
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2017/04/05 v2.0i Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+Now handling font encoding TS1 ...
+... processing UTF-8 mapping file for font encoding TS1
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1enc.dfu
+File: ts1enc.dfu 2018/04/05 v1.2c UTF-8 support for inputenc
+   defining Unicode char U+00A2 (decimal 162)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00A4 (decimal 164)
+   defining Unicode char U+00A5 (decimal 165)
+   defining Unicode char U+00A6 (decimal 166)
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00A8 (decimal 168)
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AC (decimal 172)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00AF (decimal 175)
+   defining Unicode char U+00B0 (decimal 176)
+   defining Unicode char U+00B1 (decimal 177)
+   defining Unicode char U+00B2 (decimal 178)
+   defining Unicode char U+00B3 (decimal 179)
+   defining Unicode char U+00B4 (decimal 180)
+   defining Unicode char U+00B5 (decimal 181)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+00B9 (decimal 185)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+00BC (decimal 188)
+   defining Unicode char U+00BD (decimal 189)
+   defining Unicode char U+00BE (decimal 190)
+   defining Unicode char U+00D7 (decimal 215)
+   defining Unicode char U+00F7 (decimal 247)
+   defining Unicode char U+0192 (decimal 402)
+   defining Unicode char U+02C7 (decimal 711)
+   defining Unicode char U+02D8 (decimal 728)
+   defining Unicode char U+02DD (decimal 733)
+   defining Unicode char U+0E3F (decimal 3647)
+   defining Unicode char U+2016 (decimal 8214)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+203B (decimal 8251)
+   defining Unicode char U+203D (decimal 8253)
+   defining Unicode char U+2044 (decimal 8260)
+   defining Unicode char U+204E (decimal 8270)
+   defining Unicode char U+2052 (decimal 8274)
+   defining Unicode char U+20A1 (decimal 8353)
+   defining Unicode char U+20A4 (decimal 8356)
+   defining Unicode char U+20A6 (decimal 8358)
+   defining Unicode char U+20A9 (decimal 8361)
+   defining Unicode char U+20AB (decimal 8363)
+   defining Unicode char U+20AC (decimal 8364)
+   defining Unicode char U+20B1 (decimal 8369)
+   defining Unicode char U+2103 (decimal 8451)
+   defining Unicode char U+2116 (decimal 8470)
+   defining Unicode char U+2117 (decimal 8471)
+   defining Unicode char U+211E (decimal 8478)
+   defining Unicode char U+2120 (decimal 8480)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2126 (decimal 8486)
+   defining Unicode char U+2127 (decimal 8487)
+   defining Unicode char U+212E (decimal 8494)
+   defining Unicode char U+2190 (decimal 8592)
+   defining Unicode char U+2191 (decimal 8593)
+   defining Unicode char U+2192 (decimal 8594)
+   defining Unicode char U+2193 (decimal 8595)
+   defining Unicode char U+2329 (decimal 9001)
+   defining Unicode char U+232A (decimal 9002)
+   defining Unicode char U+2422 (decimal 9250)
+   defining Unicode char U+25E6 (decimal 9702)
+   defining Unicode char U+25EF (decimal 9711)
+   defining Unicode char U+266A (decimal 9834)
+   defining Unicode char U+FEFF (decimal 65279)
+))
+LaTeX Info: Redefining \oldstylenums on input line 334.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 349.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 350.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 351.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 352.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 353.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 354.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 355.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 356.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 357.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 358.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 359.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 360.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 361.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 362.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 363.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 364.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 365.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 366.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 367.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 368.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 369.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 370.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 371.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 372.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 373.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 374.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 375.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 376.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 377.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 378.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 379.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 380.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 381.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 382.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 383.
+Package textcomp Info: Setting lmtt sub-encoding to TS1/0 on input line 384.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 385.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 386.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 387.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 388.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 389.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 390.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 391.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 392.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 393.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 394.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 395.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 396.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 397.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 398.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 399.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 400.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 401.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 402.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 403.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 404.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 405.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 406.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fontaxes/fontaxes.sty
+Package: fontaxes 2014/03/23 v1.0d Font selection axes
+LaTeX Info: Redefining \upshape on input line 29.
+LaTeX Info: Redefining \itshape on input line 31.
+LaTeX Info: Redefining \slshape on input line 33.
+LaTeX Info: Redefining \scshape on input line 37.
+)
+LaTeX Info: Redefining \swshape on input line 134.
+LaTeX Info: Redefining \oldstylenums on input line 149.
+LaTeX Info: Redefining \textsw on input line 156.
 ) (./DP.aux)
 \openout1 = `DP.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 50.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 50.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Try loading font information for T1+EBGaramond-OsF on input
+ line 50.
+
+(/usr/share/texlive/texmf-dist/tex/latex/ebgaramond/T1EBGaramond-OsF.fd
+File: T1EBGaramond-OsF.fd 2014/07/06 (autoinst) Font definitions for T1/EBGaram
+ond-OsF.
+)
+LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/n' will be
+(Font)              scaled to size 10.0pt on input line 50.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -264,17 +482,17 @@ LaTeX Font Info:    ... okay on input line 47.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count114
+\scratchcounter=\count115
 \scratchdimen=\dimen133
 \scratchbox=\box57
-\nofMPsegments=\count115
-\nofMParguments=\count116
-\everyMPshowfont=\toks24
-\MPscratchCnt=\count117
+\nofMPsegments=\count116
+\nofMParguments=\count117
+\everyMPshowfont=\toks28
+\MPscratchCnt=\count118
 \MPscratchDim=\dimen134
-\MPnumerator=\count118
-\makeMPintoPDFobject=\count119
-\everyMPtoPDFconversion=\toks25
+\MPnumerator=\count119
+\makeMPintoPDFobject=\count120
+\everyMPtoPDFconversion=\toks29
 ) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -298,11 +516,7 @@ Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
-Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
-Package ifluatex Info: LuaTeX not detected.
-))))
+)))
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2018/01/30 v0.27 Utility functions of pdfTeX for LuaTeX (HO
 )
@@ -322,149 +536,115 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
+\c@mv@tabular=\count121
+\c@mv@boldtabular=\count122
+LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/n' will be
+(Font)              scaled to size 5.0pt on input line 53.
+LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/bx/n' in size <5> not availab
+le
+(Font)              Font shape `T1/EBGaramond-OsF/m/n' tried instead on input l
+ine 57.
+LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/n' will be
+(Font)              scaled to size 5.0pt on input line 57.
+LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/bx/it' in size <5> not availa
+ble
+(Font)              Font shape `T1/EBGaramond-OsF/m/it' tried instead on input 
+line 57.
+LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/it' will be
+(Font)              scaled to size 5.0pt on input line 57.
 <ice_ages1.jpg, id=1, 542.025pt x 211.79124pt>
 File: ice_ages1.jpg Graphic file (type jpg)
 <use ice_ages1.jpg>
-Package pdftex.def Info: ice_ages1.jpg  used on input line 145.
+Package pdftex.def Info: ice_ages1.jpg  used on input line 148.
 (pdftex.def)             Requested size: 196.03221pt x 76.59703pt.
 <hydrology.jpg, id=2, 976.64874pt x 476.78125pt>
 File: hydrology.jpg Graphic file (type jpg)
 <use hydrology.jpg>
-Package pdftex.def Info: hydrology.jpg  used on input line 154.
+Package pdftex.def Info: hydrology.jpg  used on input line 157.
 (pdftex.def)             Requested size: 196.03221pt x 95.69649pt.
 <landforms.jpg, id=3, 321.2pt x 199.74625pt>
 File: landforms.jpg Graphic file (type jpg)
 <use landforms.jpg>
-Package pdftex.def Info: landforms.jpg  used on input line 155.
+Package pdftex.def Info: landforms.jpg  used on input line 158.
 (pdftex.def)             Requested size: 196.03221pt x 121.90903pt.
 <moraines.jpg, id=4, 451.6875pt x 400.49625pt>
 File: moraines.jpg Graphic file (type jpg)
 <use moraines.jpg>
-Package pdftex.def Info: moraines.jpg  used on input line 156.
+Package pdftex.def Info: moraines.jpg  used on input line 159.
 (pdftex.def)             Requested size: 196.03221pt x 173.81723pt.
 <Glacier_Types.jpg, id=5, 746.01291pt x 559.50967pt>
 File: Glacier_Types.jpg Graphic file (type jpg)
 <use Glacier_Types.jpg>
-Package pdftex.def Info: Glacier_Types.jpg  used on input line 157.
+Package pdftex.def Info: Glacier_Types.jpg  used on input line 160.
 (pdftex.def)             Requested size: 196.03221pt x 147.02289pt.
 <glacierflow2.jpg, id=6, 930.47626pt x 714.67pt>
 File: glacierflow2.jpg Graphic file (type jpg)
 <use glacierflow2.jpg>
-Package pdftex.def Info: glacierflow2.jpg  used on input line 158.
+Package pdftex.def Info: glacierflow2.jpg  used on input line 161.
 (pdftex.def)             Requested size: 98.0161pt x 75.27701pt.
 <Larsen_contours.jpg, id=7, 276.03125pt x 290.08376pt>
 File: Larsen_contours.jpg Graphic file (type jpg)
 <use Larsen_contours.jpg>
-Package pdftex.def Info: Larsen_contours.jpg  used on input line 158.
+Package pdftex.def Info: Larsen_contours.jpg  used on input line 161.
 (pdftex.def)             Requested size: 98.0161pt x 103.00479pt.
 <iceshelf_locations.png, id=8, 1606.0pt x 1290.8225pt>
 File: iceshelf_locations.png Graphic file (type png)
 <use iceshelf_locations.png>
-Package pdftex.def Info: iceshelf_locations.png  used on input line 329.
+Package pdftex.def Info: iceshelf_locations.png  used on input line 334.
 (pdftex.def)             Requested size: 196.03221pt x 157.55101pt.
 <othersea.jpg, id=10, 513.92pt x 228.855pt>
 File: othersea.jpg Graphic file (type jpg)
 <use othersea.jpg>
-Package pdftex.def Info: othersea.jpg  used on input line 330.
+Package pdftex.def Info: othersea.jpg  used on input line 335.
 (pdftex.def)             Requested size: 196.03221pt x 87.29753pt.
 <arctic.png, id=11, 933.4875pt x 923.45pt>
 File: arctic.png Graphic file (type png)
 <use arctic.png>
-Package pdftex.def Info: arctic.png  used on input line 331.
+Package pdftex.def Info: arctic.png  used on input line 336.
 (pdftex.def)             Requested size: 98.0161pt x 96.95805pt.
 <lgm.jpg, id=12, 216.81pt x 157.5486pt>
 File: lgm.jpg Graphic file (type jpg)
 <use lgm.jpg>
-Package pdftex.def Info: lgm.jpg  used on input line 331.
+Package pdftex.def Info: lgm.jpg  used on input line 336.
 (pdftex.def)             Requested size: 98.0161pt x 71.22556pt.
-<na.jpg, id=13, 494.84875pt x 513.92pt>
-File: na.jpg Graphic file (type jpg)
-<use na.jpg>
-Package pdftex.def Info: na.jpg  used on input line 332.
-(pdftex.def)             Requested size: 196.03221pt x 203.58823pt.
-<corrie.png, id=14, 722.7pt x 542.025pt>
+<corrie.png, id=13, 722.7pt x 542.025pt>
 File: corrie.png Graphic file (type png)
 <use corrie.png>
-Package pdftex.def Info: corrie.png  used on input line 333.
+Package pdftex.def Info: corrie.png  used on input line 337.
 (pdftex.def)             Requested size: 98.0161pt x 73.50931pt.
-<milan.jpg, id=15, 265.99374pt x 190.7125pt>
+<milan.jpg, id=14, 265.99374pt x 190.7125pt>
 File: milan.jpg Graphic file (type jpg)
 <use milan.jpg>
-Package pdftex.def Info: milan.jpg  used on input line 333.
+Package pdftex.def Info: milan.jpg  used on input line 337.
 (pdftex.def)             Requested size: 98.0161pt x 70.27441pt.
-<seaice.png, id=16, 677.53125pt x 377.41pt>
+<seaice.png, id=15, 677.53125pt x 377.41pt>
 File: seaice.png Graphic file (type png)
 <use seaice.png>
-Package pdftex.def Info: seaice.png  used on input line 334.
+Package pdftex.def Info: seaice.png  used on input line 338.
 (pdftex.def)             Requested size: 196.03221pt x 109.19846pt.
-<southern.jpg, id=17, 949.5475pt x 817.0525pt>
-File: southern.jpg Graphic file (type jpg)
-<use southern.jpg>
-Package pdftex.def Info: southern.jpg  used on input line 335.
-(pdftex.def)             Requested size: 98.0161pt x 84.32814pt.
-<greenland.jpg, id=18, 853.1875pt x 725.71124pt>
-File: greenland.jpg Graphic file (type jpg)
-<use greenland.jpg>
-Package pdftex.def Info: greenland.jpg  used on input line 335.
-(pdftex.def)             Requested size: 98.0161pt x 83.3609pt.
-<fjord.png, id=19, 113.9457pt x 78.7743pt>
-File: fjord.png Graphic file (type png)
-<use fjord.png>
-Package pdftex.def Info: fjord.png  used on input line 336.
-(pdftex.def)             Requested size: 98.0161pt x 67.7614pt.
-<glacier.png, id=20, 180.675pt x 105.87555pt>
-File: glacier.png Graphic file (type png)
-<use glacier.png>
-Package pdftex.def Info: glacier.png  used on input line 336.
-(pdftex.def)             Requested size: 98.0161pt x 57.43687pt.
-<lauren.jpg, id=21, 347.2975pt x 328.22626pt>
-File: lauren.jpg Graphic file (type jpg)
-<use lauren.jpg>
-Package pdftex.def Info: lauren.jpg  used on input line 337.
-(pdftex.def)             Requested size: 98.0161pt x 92.63393pt.
-<cordi.jpg, id=22, 456.70625pt x 276.03125pt>
-File: cordi.jpg Graphic file (type jpg)
-<use cordi.jpg>
-Package pdftex.def Info: cordi.jpg  used on input line 337.
-(pdftex.def)             Requested size: 98.0161pt x 59.24025pt.
-<wordlmap.jpg, id=23, 521.95pt x 258.9675pt>
-File: wordlmap.jpg Graphic file (type jpg)
-<use wordlmap.jpg>
-Package pdftex.def Info: wordlmap.jpg  used on input line 338.
-(pdftex.def)             Requested size: 196.03221pt x 97.26271pt.
-<filler.jpg, id=24, 480.29437pt x 274.02374pt>
-File: filler.jpg Graphic file (type jpg)
-<use filler.jpg>
-Package pdftex.def Info: filler.jpg  used on input line 339.
-(pdftex.def)             Requested size: 142.26378pt x 81.16661pt.
+<na.jpg, id=16, 494.84875pt x 513.92pt>
+File: na.jpg Graphic file (type jpg)
+<use na.jpg>
+Package pdftex.def Info: na.jpg  used on input line 339.
+(pdftex.def)             Requested size: 196.03221pt x 203.58823pt.
 
-Overfull \hbox (1.66669pt too wide) in paragraph at lines 54--341
+Overfull \hbox (0.66647pt too wide) in paragraph at lines 57--345
 [] []
  []
 
 
-Overfull \hbox (1.66669pt too wide) in paragraph at lines 54--341
+Overfull \hbox (0.66647pt too wide) in paragraph at lines 57--345
 [] []
  []
 
 
-Overfull \hbox (1.66669pt too wide) in paragraph at lines 54--341
+Overfull \hbox (0.66647pt too wide) in paragraph at lines 57--345
 [] []
  []
 
 
-Overfull \hbox (1.66669pt too wide) in paragraph at lines 54--341
-[] []
- []
+Underfull \hbox (badness 10000) in paragraph at lines 57--345
 
-
-Overfull \hbox (1.66669pt too wide) in paragraph at lines 54--341
-[] []
- []
-
-
-Overfull \hbox (1.66669pt too wide) in paragraph at lines 54--341
-[] []
  []
 
 [1
@@ -472,29 +652,28 @@ Overfull \hbox (1.66669pt too wide) in paragraph at lines 54--341
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./ice_ages1.jpg> <./hydrol
 ogy.jpg> <./landforms.jpg> <./moraines.jpg> <./Glacier_Types.jpg> <./glacierflo
 w2.jpg> <./Larsen_contours.jpg>] [2 <./iceshelf_locations.png> <./othersea.jpg>
- <./arctic.png (PNG copy)> <./lgm.jpg> <./na.jpg> <./corrie.png> <./milan.jpg> 
-<./seaice.png> <./southern.jpg> <./greenland.jpg> <./fjord.png> <./glacier.png>
- <./lauren.jpg> <./cordi.jpg> <./wordlmap.jpg> <./filler.jpg>] [3] [4]
-(./DP.aux) ) 
+ <./arctic.png (PNG copy)> <./lgm.jpg> <./corrie.png> <./milan.jpg> <./seaice.p
+ng> <./na.jpg>] [3] (./DP.aux) ) 
 Here is how much of TeX's memory you used:
- 3349 strings out of 492641
- 44838 string characters out of 6131787
- 227910 words of memory out of 5000000
- 7183 multiletter control sequences out of 15000+600000
- 4884 words of font info for 18 fonts, out of 8000000 for 9000
+ 4535 strings out of 492641
+ 63128 string characters out of 6131787
+ 245162 words of memory out of 5000000
+ 8331 multiletter control sequences out of 15000+600000
+ 11515 words of font info for 22 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,5n,35p,969b,266s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx5
-.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb
-></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/
-share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/t
-exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texlive/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/texlive/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmti7.pfb>
-Output written on DP.pdf (4 pages, 3998327 bytes).
+ 39i,5n,37p,969b,266s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/
+ebgaramond/ebgm_iymieh.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/ebgar
+amond/ebgm_ny6sxo.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/ebgaram
+ond/EBGaramond12-Italic.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/e
+bgaramond/EBGaramond12-Regular.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmmi5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmsy5.pfb>
+Output written on DP.pdf (3 pages, 3360273 bytes).
 PDF statistics:
- 73 PDF objects out of 1000 (max. 8388607)
- 32 compressed objects within 1 object stream
+ 55 PDF objects out of 1000 (max. 8388607)
+ 26 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 116 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 76 words of extra memory for PDF output out of 10000 (max. 10000000)
 
