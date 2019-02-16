@@ -8,7 +8,7 @@
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 \usepackage{ebgaramond}
-
+\usepackage{soul}
 % Symbols
 \newcommand{\ddd}{$\bullet$}
 % Colors
@@ -20,7 +20,7 @@
 \newcommand{\yellow}[1]{\textcolor{yellow}{#1}}
 % Headings
 % Note: The order of importance is the ROYGBV
-\newcommand{\mysection}[1]{\colorbox{yellow}{\textbf{\textit{\red{#1}}}}}
+\newcommand{\mysection}[1]{\colorbox{yellow}{{\textbf{\textbf{\textit{\red{#1}}}}}}}
 \newcommand{\mysub}[1]{\underline{\textbf{{\textit{\orange{#1}}}}}}
 \newcommand{\mysubsub}[1]{{{\green{#1}}}}
 \newcommand{\mysubsubsub}[1]{{{\blue{#1}}}}
@@ -91,6 +91,7 @@
             \ddd \textbf{Accumulation rate} - The thickess of the annual layers in ice cores can be used to derive a precipitation rate (after correcting for thinning by glacier flow). Past precipitation rates are an important palaeoenvironmental indicator, often correlated to climate change, and it’s an essential parameter for many past climate studies or numerical glacier simulations.
             \ddd \textbf{Melt Layers} - Ice cores provide us with lots of information beyond bubbles of gas in the ice. For example, melt layers are related to summer temperatures. More melt layers indicate warmer summer air temperatures. Melt layers are formed when the surface snow melts, releasing water to percolate down through the snow pack. They form bubble-free ice layers, visible in the ice core
             \ddd \textbf{Past air temperatures} - It is possible to discern past air temperatures from ice cores. This can be related directly to concentrations of carbon dioxide, methane and other greenhouse gasses preserved in the ice.
+           	\mysubsub{Rate of flow: } Controlled by: 1. The severity of the slope 2. Basal water= wet bottom= faster flow 3. location within glacier=greater velocity in ice center
         \mysection{Sedimentary Sequences}
         \ddd Sedimentary environments are areas where sediments are deposited; glaciers are an example of this
         \mysub{Supraglacial (ice marginal)}
@@ -146,21 +147,29 @@
             \ddd Northern Hemisphere glaciation occurred in episodes after Greenland froze
             \ddd Tectonic changes might have triggered more extensive NH glaciation
         \fig{ice_ages1}
-		\mysection{Glacial Formation} % New Section
+        \mysub{Glacial periods} are characterized with large ice sheets and are normally known as ice ages. The periods between these are known as interglacial periods and currently we are in the Holocene interglacial period. The last glacial period was between 120,000 to 11,500 years ago and was during the Pleistocene Epoch.
+        \ddd Glacial periods are times in the Earth's history where average global temperatures were approximately 6 C lower and glaciers covered much of the planets surface. The last of these periods ended approximately 10,000 years ago. There are 6 main factors that contribute to global climate and can cause glacial periods: \vocab{solar variability, insulation, dust, atmospheric composition, ocean current circulation, sea ice, and atmospheric circulation.} All of these are natural processes and the only one that is affected by humans is atmospheric composition.
+        \ddd \vocab{Interglacial periods} are caused by shifts in the Earth's orbit and this causes a change in the amount of solar radiation that hits the Earth. When the amount of solar radiation increases, this is when the Earth shifts from a glacial to interglacial period. The Quaternary has had multiple shifts between glacial and inter-glacial periods and in the middle of this period, the change cycle between glacial and interglacial changed every 100,000 years. 
+        \ddd Antarctica is a great indicator if Earth is in a glacial or interglacial period because the amount of ice and snow on it indicates the amount of solar radiation that is hitting the Earth as well as the average temperature of the Earth.
+        \ddd \vocab{CO2 is also an indicator} of the changing from a glacial to interglacial period or vice versa. As the CO2 levels increase the Earth's average temperature will increase and it will move into an interglacial period whereas if the CO2 levels were to fall, the average temperature would fall and the Earth would change to a glacial period.
+	\mysection{Glacial Formation} % New Section
 		\mysub {Glacial Ice:}
 		Glacier formation - snow in same area year long and accumulates into masses of ice; ; after the first winter this is known as \vocab{neve}; after two winters (one melt season), snow turns into \vocab{firn}; the ice increases in density over years
 		\mysub{Ice Crystal Structure:} 
 		Commonly takes the shape of sheets or planes of oxygen atoms joined in a series of open hexagonal rings; ice can form 18 different crystalline phases; tacked in a laminar structure that occasionally deforms by gliding; When this gliding deformation occurs, the bonds between the layers break, and the hydrogen atoms involved in those bonds must become attached to different oxygen atoms
 		\mysub{Properties of Ice:} The albedo is 0.5 to 0.9 for snow, 0.3 to 0.65 for firn, and 0.15 to 0.35 for glacier ice
 		\mysubsub{Albedo:} lowers the melting point of the glacier due to hydrostatic pressure, where deeper parts of the glacier are colder
+		\mysub{Moraine: }
+		Material a glacier picks up or pushes as it moves forms moraines along the surface and sides of the glacier. As a glacier retreats, the ice literally melts away from underneath the moraines, so they leave long, narrow ridges that show where the glacier used to be. Glaciers do not always leave moraines behind, however, because sometimes the glacier’s own meltwater washes the material away.
+		\mysub{Drumlins: } long, tear-drop-shaped sedimentary formations. What caused drumlins to form is poorly understood, but scientists believe that they were created subglacially as the ice sheets moved across the landscape during the various ice ages. Theories suggest that drumlins might have been formed as glaciers scraped up sediment from the underlying ground surface, or from erosion or deposition of sediment by glacial meltwater, or some combination of these processes. Because the till, sand, and gravel that form drumlins are deposited and shaped by glacier movement, all drumlins created by a particular glacier face the same direction, running parallel to the glacier's flow. Often, hundreds to thousands of drumlins are found in one place, looking very much like whale backs when seen from above
+		\mysub{Structure: }The region near the head of the glacier where snow is converted to firn and then ice is called the zone of accumulation.  The region near the foot of the glacier is called the zone of ablation; this is where ice is lost by melting, evaporation or calving (to make icebergs).  Separating the accumulation zone from the ablation zone is the equilibrium line. The equilibrium line is located at the equilibrium line altitude (ELA).
 	%Figure intermission
 	    \fig{hydrology}
 	    \fig{landforms}
-        \fig{moraines}
-        \fig{Glacier_Types}
+        \figwidth{moraines}{6}
         \figtwo{glacierflow2}{Larsen_contours}
 	%Mass Balance and Flow
-		\mysection{Mass-balance and Flow}
+	\mysection{Mass-balance and Flow}
 		\mysub{Ablation and Accumulation Zones:}
 		\mysubsub{Accumulation Zones} are the part of the glacier that has more accumulation than ablation
 		\mysubsub{Ablation Zones} are the part of the glacier that has more ablation than accumulation, and the calculate mass balance, just add the two figures
@@ -278,6 +287,33 @@
                 The Quaternary System is that lasted from the present to approximately 2.588 million years ago with the Neogene system before the Quaternary. The Quaternary System contains two series: the Holocene and the Pleistocene with the Holocene being the present. In this period, ice sheets were able to form in Greenland and Antarctica and the continents were formed to their present shape. As glaciers formed and later retreated, thousands of lakes and rivers were created all over the world. As the glaciers retreated the sea level rose and the amount of biological diversity in the oceans increased
              \mysub{Wisconsin}
              	This Wisconsin glaciation left widespread impacts on the North American landscape. The Great Lakes and the Finger Lakes were carved by ice deepening old valleys. Most of the lakes in Minnesota and Wisconsin were gouged out by glaciers and later filled with glacial meltwaters. The old Teays River drainage system was radically altered and largely reshaped into the Ohio River drainage system. Other rivers were dammed and diverted to new channels, such as Niagara Falls, which formed a dramatic waterfall and gorge, when the waterflow encountered a limestone escarpment. Another similar waterfall, at the present Clark Reservation State Park near Syracuse, New York, is now dry.
+     \mysection{History of Events: }
+     		\mysub{Snowball Earth: }
+     			\textbf{2.4 to 2.1 billion years ago} \ddd
+     			\vocab{The Huronian glaciation} is the oldest ice age we know about. The Earth was just over 2 billion years old, and home only to unicellular life-forms
+     			The early stages of the Huronian, from 2.4 to 2.3 billion years ago, seem to have been particularly severe, with the entire planet frozen over in the first “snowball Earth”. This may have been triggered by a 250-million-year lull in volcanic activity, which would have meant less carbon dioxide being pumped into the atmosphere, and a reduced greenhouse effect.
+     		\mysub{Deep Freeze: }
+     			\textbf{850 to 630 million years ago}
+     			\ddd During the 200 million years of the Cryogenian period, the Earth was plunged into some of the deepest cold it has ever experienced – and the emergence of complex life may have caused it.
+     			\ddd One theory is that the glaciation was triggered by the evolution of large cells, and possibly also multicellular organisms, that sank to the seabed after dying. This would have sucked CO2 out of the atmosphere, weakening the greenhouse effect and thus lowering global temperatures
+     			\ddd There seem to have been two distinct Cryogenian ice ages: the so-called Sturtian glaciation between 750 and 700 million years ago, followed by the Varanger (or Marinoan) glaciation, 660 to 635 million years ago. There’s some evidence that Earth became a snowball at times during the big freezes, but researchers are still trying to work out exactly what happened.
+  			\mysub{Mass Extinction: }
+  				\textbf{460 to 430 million years ago}
+  				\ddd Straddling the late Ordovician period and the early Silurian period, the Andean-Saharan ice age was marked by a mass extinction, the second most severe in Earth’s history.
+  				\ddd The die-off was surpassed only by the gargantuan Permian extinction 250 million years ago. But as the ecosystem recovered after the freeze, it expanded, with land plants becoming common over the course of the Silurian period. And those plants may have caused the next great ice age.
+			\mysub{Plants Invade the Land: }
+				\textbf{360 to 260 million years ago: }
+				\ddd Like the Cryogenian glaciation, the \vocab{Karoo} ice age featured two peaks in ice cover that may well have been distinct ice ages. They took place in the Mississipian period, 359 to 318 million years ago, and again in the Pennsylvanian 318 to 299 million years ago.
+				\ddd These ice ages may have been the result of the expansion of land plants that followed the Cryogenian. As plants spread over the planet, they absorbed CO2 from the atmosphere and released oxygen. As a result CO2 levels fell and the greenhouse effect weakened, triggering an ice age.
+				\ddd There is some evidence that the ice came and went in regular cycles, driven by changes in Earth’s orbit. If true, this would mean that the Karoo ice age operated in much the same way as the current one
+			\mysub{Antartica Freezes Over: }
+				\textbf{14 million years ago}
+				\ddd Antarctica wasn’t always frozen. It wasn’t until around 34 million years ago that the first small glaciers formed on the tops of Antarctica’s mountains. And it was 20 million years later, when world-wide temperatures dropped by $ 8^\circ C $, that the glaciers’ ice froze onto the rock, and the southern ice sheet was born.
+				\ddd This temperature drop was triggered by the rise of the Himalayas. As they grew higher they were exposed to increased weathering, which sucked CO2 out of the atmosphere and reduced the greenhouse effect.
+				\ddd The northern hemisphere remained relatively ice-free for longer, with Greenland and the Arctic becoming heavily glaciated only around 3.2 million years ago.
+			\mysub{Our Ice Age: }
+			\ddd First, the chilly “Older Dryas” of 14,700 to 13,400 years ago transformed most of Europe from forest to tundra, like modern-day Siberia. After a brief respite, the Younger Dryas, between 12,800 to 11,500 years ago, froze Europe solid within a matter of months – probably as a result of meltwater from retreating glaciers shutting down the Atlantic Ocean’s “conveyor-belt” current, although a cometary impact has also been blamed.
+			\ddd Twelve thousand years ago, the great ice sheets retreated at the beginning of the latest interglacial – the Flandrian – allowing humans to return to northern latitudes. This period has been relatively warm, and the climate relatively stable, although it has been slightly colder than the last interglacial, the Eemian, and sea levels are currently at least 3 metres lower – differences that are being closely scrutinised by researchers keen to understand how our climate will develop.
      \mysection{Glacier Fluctuations}
 	        \ddd In ~1930 Milutin Milankovitch proposed that variations in three parameters of the earth's orbit caused glacial fluctuations: 
 	        \ddd 1.	Orbital eccentricity - the orbit of the earth around the sun is not a circle, but is elliptical and also varies. This eccentricity is a minor cause for seasons.
@@ -318,6 +354,12 @@
 		    \mysubsub {Vatnojokull Glacier} of Europe (Iceland --> covers 8 percent)
 		    \mysubsub {Perito Moreno Glacier} in S.A. which is thriving despite trend of retreat in the globe
 		    \mysubsub {Hubbard Glacier} in N.A. (largest tidewater glacier my far). 
+		    \mysubsub{Fastest Surge: } The Kutiah Glacier in Pakistan has the record for the fastest glacier surge. In 1953, it moved more than 12km in three months.
+		    \mysubsub{Largest Glacier: } The largest glacier in the world is the Lambert-Fisher Glacier in Antarctica. At 400 kilometers (250 miles) long, and up to 100 kilometers (60 miles) wide, this ice stream alone drains about 8\% of the Antarctic Ice Sheet.
+		    \mysubsub{LGM} During the maximum point of the last ice age, glaciers covered about 32\% of the total land area.
+		    \ddd The word “glacier” comes from the French language and the name is derived from the Latin word glacies meaning “ice“.
+		    \mysubsub{Death: } In 1985, a volcano in Colombia that was covered in glaciers erupted, instantly melting the glaciers. Two hours later, a 100 ft deep flood of rock and water traveling 39 feet per second leveled an entire nearby village, killing 20,000 out of its 29,000 residents
+		    \mysubsub{Greenland rising: }  Greenland is rising 1 inch per year as glaciers melt, alleviating the land of its weight. 
 		    \mysubsub{Europe Glaciers} found in the Alps, Caucasus and the Scandinavian Mountains and Iceland. Most of Europe's large glaciers are in Norway, with the exception of the biggest, which is in Iceland, called the Vatnojokull Glacier.
 		    \mysubsub{N.A. Glaciers} Glaciers are in 9 of America's states, in Mexico and of course in Canada. Southernmost in the states is the Lilliput in California. Glaciers in Mexico are in the Pico de Orizaba (Citlaltépetl), Popocatépetl and Iztaccíhuatl, the three tallest mountains in the country.
 		    \mysubsub{S.A. Glaciers} S.A. glacier exclusively on the Andes. Apart from this there is a wide range of latitudes on which glaciers develop from 5000 m in the Altiplano mountains and volcanoes to reaching sea level as San Rafael Lagoon ($ 45^\circ $ S) and southwards. South America hosts two large ice fields, the Northern and Southern Patagonian Ice Fields.
@@ -337,12 +379,16 @@
 	\figtwo{corrie}{milan}
 	\fig{seaice}
 	\fig{na}
-%	\figtwo{southern}{greenland}
-%	\figtwo{fjord}{glacier}
-%	\figtwo{lauren}{cordi}
-%	\fig{wordlmap}
-%	\figwidth{filler}{5}
-
+	\figtwo{southern}{greenland}
+	\figtwo{fjord}{glacier}
+	\figtwo{lauren}{cordi}
+	\fig{wordlmap}
+	\fig{filler}
+	\fig{stoss}
+	\fig{alpine}
+	\fig{varve}
+	\fig{volume}
+	
 	\pagebreak
 	\mysection{Vocabulary} 
 		\ddd
@@ -364,25 +410,34 @@
 		\vocab{        Bergschrund: } (Rimaye) Crevasse that separates flowing ice from stagnant ice at the head of a glacier 
 		\vocab{        Branched-Valley Glacier: } Glacier that has one or more tributary glaciers that flow into it; distinguished from a simple valley glacier that has only a single tributary glacier 
 		\vocab{       Brittle Zone: }The upper 50 meters of a glacier that breaks as the ice moves
-		\vocab{Budget of Glacier: } as terminus, or bottom of glacier, retreats, zone of wastage decreases$ \rightarrow $new balance will be reached eventually between accumulation and wastage, and ice front will become stationary; no matter how margin is moving ice within the glacier continues to flow forward; even if glacier is retreating, but not enough to stop ablation  
+		\vocab{Budget of Glacier: } as terminus, or bottom of glacier, retreats, zone of wastage decreases$ \rightarrow $new balance will be reached eventually between accumulation and wastage, and ice front will become stationary; no matter how margin is moving ice within the glacier continues to flow forward; even if glacier is retreating, but not enough to stop ablation 
+		\vocab{Bubble Rock: } Name of this one erratic in Acadia national park.
 		\vocab{Calving: } process by which a block of a glacier breaks off and falls into the sea to form an iceberg  
 		\vocab{        Catchment Glacier: } A semi permanent mass of firn formed by drifted snow behind obstructions or in the ground; also called a snowdrift glacier or a drift glacier 
-		\vocab{        Chattermarks: } Striations or marks left on the surface of exposed bedrock caused by the advance and retreat of glacier ice 
+		\vocab{        Chattermarks: } Striations or marks left on the surface of exposed bedrock caused by the advance and retreat of glacier ice
+		\vocab{Chanelled Scablands: } Land after a giant flood. 
 		\vocab{        Cirque: } Bowl shaped or amphitheater usually sculpted out of the mountain terrain by a cirque glacier 
 		\vocab{        Cirque Glacier: } Glacier that resides in basins or amphitheaters near ridge crests; most cirque glaciers have a characteristic circular shape, with their width as wide or wider than their length 
+		\vocab{Col: } the lowest point of a ridge or saddle between two peaks, typically affording a pass from one side of a mountain range to another. 
 		\vocab{        Cold Glacier: } Glacier in which most of the ice is below the pressure melting point; nonetheless the glacier’s surface may be susceptible to melt due to incoming solar radiation, and the ice at the rock/ice interface may be warmed as a result of the natural (geothermal) heat from the earth’s surface 
 		\vocab{        Compression Flow: } Flow that occurs when glacier motion is decelerating down-slope 
 		\vocab{        Constructive Metamorphism: } Snow metamorphism that adds molecules to sharpen the corners and edges of an ice crystal 
 		\vocab{ Continental Glacier: }A glacier that covers much of a continent or large island  
 		\vocab{Corrie: } A hollow containing a small glacier that is armchair shaped  
 		\vocab{Cordilleran Ice Sheet: }The ice cap that covered much of the mountains in the northwestern part of North America during the Pleistocene Epoch.  
+		\vocab{Crag and Tail: }Rocky hill followed by a tale of till 
+		\vocab{Crayocinite: }Depression in a glacier formed when a rock on the surface is heated and melts the surrounding snow. 
 		\vocab{        Crevasse: } Open fissure in the glacier surface 
 		\vocab{        Crevasse Hoar: } A kind of hoarfrost; ice crystals that develop by sublimation in glacial crevasses and in other cavities with cooled space and calm, still conditions under which water vapor can accumulate; physical origin is similar to depth hoar 
+		\vocab{Cwm:} same thing as a cirque.
 		\vocab{        Dead Ice: } Any part of a glacier which has ceased to flow; dead ice is usually covered with moraine 
 		\vocab{Diamicton: } Diamicton is a general term used to describe a non-sorted or poorly sorted, sometimes non-calcareous, terrigenous or marine sediment containing a wide range of particle sizes derived from a broad provenance  
+		\vocab{De geer moraine: } underwater moraine; parallel ridges like ripple marks. Only a few 100 ft apart. 
 		\vocab{        Dirt Cone: } A cone-shaped formation of ice that is covered by dirt; a dirt cone is caused by a differential pattern of ablation between the dirt-covered surface and bare ice 
 		\vocab{        Drain Channel: } Preferred path for meltwater to flow from the surface through a snow cover 
+		\vocab{Drift: } Any material carried and deposited by a glacier.
 		\vocab{        Drift Glacier: } A semi-permanent mass of firn formed by drifted snow behind obstructions or in the ground; also called a catchment glacier or a snowdrift glacier 
+		\vocab{Dropstone: } A rock that was carried elsewhere by a glacier or iceberg and deposited when the ice melts, the rock sinks to the bottom of the body of water and becomes part of a sedimentary rock. 
 		\vocab{        Drumlin: } Remnant elongated hills formed by historical glacial action; it is not clear exactly how they are formed and why they form only in some glaciated regions 
 		\vocab{Dry Bottom Glacier: } A glacier so cold that its base remains frozen to the substrate, also called a polar glacier. Occur in regions where atmospheric temperatures stay so cold all year long that the glacial ice remains below melting. Mars also has polar glaciers.  
 		\vocab{        Dump Moraine: } A mound or layer of moraine formed along the edge of a glacier by rocks that fall off the ice; sometimes called a ground moraine 
@@ -419,13 +474,14 @@
 		\vocab{        Glacier flour: } a fine powder of silt- and clay-sized particles that a glacier creates as its rock-laden ice scrapes over bedrock; usually flushed out in meltwater streams and causes water to look powdery gray; lakes and oceans that fill with glacier flour may develop a banded appearance; also called rock flour 
 		\vocab{        Glacier ice: } well-bonded ice crystals compacted from snow with a bulk density greater than 860 kilograms per cubic meter (55 pounds per cubic-foot) 
 		\vocab{        Glacier mill: } a nearly vertical channel in ice that is formed by flowing water; usually found after a relatively flat section of glacier in a region of transverse crevasses 
+		\vocab{Glacier Milk: } Flour that has been mixed with water to create milky appearance. 
 		\vocab{        Glacier pothole: } potholes formed at the bottom of glaciers through erosion caused by sand and gravel in melt-water; melt-water seeps through crevasses in the glaciers, sometimes forming whirlpools; at the bottom of the glacier, the water is under very high pressure, leading to erosion of underlying rocks 
 		\vocab{        Glacier remainie: } a glacier that is reconstructed or reconstituted out of other glacier material; usually formed by seracs falling from a hanging glacier, then re-adhering; also called reconstituted, reconstructed or regenerated glacier 
 		\vocab{        Glacier snout: } the lowest end of a glacier; also called glacier terminus or toe 
 		\vocab{        Glacier sole: } the bottom of the ice of a glacier 
 		\vocab{        Glacier table: } a rock that resides on a pedestal of ice; formed by differential ablation between the rock-covered ice and surrounding bare ice 
 		\vocab{        Glacier terminus: } the lowest end of a glacier; also called glacier snout or toe 
-		\vocab{        Glacier toe: } the lowest end of a glacier; also called glacier snout or terminus 
+		\vocab{        Glacier toe: } the lowest end of a glacier; also called glacier snout or terminus
 		\vocab{        Glacier trough: } u-shaped valleys transformed from v-shaped stream valleys due to erosion caused by passing glaciers 
 		\vocab{        Glacieret: } a very small glacier 
 		\vocab{        Glacierized: } land overlaid at present by a glacier is said to be covered; the alternative term glacierized has not found general favour 
@@ -500,6 +556,7 @@
 		\vocab{        Randkluft: } a fissure that separates a moving glacier from its headwall rock; like a bergschrund 
 		\vocab{        Reconstituted glacier: } a glacier that is reconstructed or reconstituted out of other glacier material; usually formed by seracs falling from a hanging glacier then re-adhering; also called reconstructed glacier, regenerated glacier, or glacier remainie 
 		\vocab{        Reconstructed glacier: } a glacier that is reconstructed or reconstituted out of other glacier material; usually formed by seracs falling from a hanging glacier then re-adhering; also called reconstituted glacier, regenerated glacier, or glacier remainie 
+		\vocab{Rcessional Moraine: } Terminal moraine after it has come back and moved forward again. 
 		\vocab{ Regelation: } motion of an object through ice by melting and freezing that is caused by pressure differences; this process allows a glacier to slide past small obstacles on its bed  
 		\vocab{        Regenerated glacier: } a glacier that is reconstructed or reconstituted out of other glacier material; usually formed by seracs falling from a hanging glacier then re-adhering; also called reconstituted or reconstructed glacier, or glacier remainie 
 		\vocab{        Retreat: } when a mountain glacier's terminus doesn't extend as far downvalley as it previously did; occurs when ablation surpasses accumulation 
@@ -507,6 +564,7 @@
 		\vocab{Ribbon Lake} Long, thin lakes that form after a glacier retreats that form in hollows  
 		\vocab{        Rock flour: } a fine powder of silt- and clay-sized particles that a glacier creates as its rock-laden ice scrapes over bedrock; usually flushed out in meltwater streams, causing water to look powdery gray; lakes and oceans that fill with glacier flour may develop a banded appearance 
 		\vocab{        Rock glacier: } looks like a mountain glacier and has active flow; usually includes a poorly sorted mess of rocks and fine material; may include: (1) interstitial ice a meter or so below the surface (“ice-cemented”), (2) a buried core of ice (“ice-cored”), and/or (3) rock debris from avalanching snow and rock 
+		\vocab{Roche Mountain: } Rock drumlin. 
 		\vocab{        Rogen Moraine: }(also called ribbed moraine) is a subglacially (i.e. under a glacier or ice sheet) formed type of moraine landform, that mainly occurs in Fennoscandia, Scotland, Ireland and Canada. Landform assemblage of numerous, parallel, closely-spaced ridges consisting of glacial drift, usually TILL. The ridges are formed transverse to ice flow in a subglacial position and are usually found in the central portions of former ice sheets. believed to have been the central areas of the ice sheets. Formation linked closely to Drumlins.  
 		\vocab{        Sastrugi: } parallel wave-like ridges caused by winds on the surface of hard snow, especially in polar regions.  
 		\vocab{        Sedimentary ogives: } alternating bands of light and dark at the firn limit of a glacier; the light bands are usually young and lightest at the highest level up-glacier, becoming increasingly older and darker as they progress down-glacier 
@@ -518,6 +576,7 @@
 		\vocab{        Splay crevasse: } a crevasse pattern that forms where ice slowly spreads out sideways; commonly found near a glacier terminus 
 		\vocab{Stratified Drift: } Sediment laid down by glaial meltwater (lasagna)  
 		\vocab{        Sub polar glacier: } a glacier whose temperature regime is between polar and temperate; usually predominantly below freezing, but could experience extensive summer melt 
+		\vocab{Sun cup: }Ablation hollow that develops, during intense sunshine. 
 		\vocab{        Surging glacier: } a glacier that experiences a dramatic increase in flow rate, 10 to 100 times faster than its normal rate; usually surge events last less than one year and occur periodically, between 15 and 100 years 
 		\vocab{Surges: } in the summer months when the glacier is melting there will be quick sunspots  
 		\vocab{        Tarn: } a small mountain lake or pool; a mountain lake formed in a cirque excavated by a glacier. A moraine may form a natural dam below a tarn 
@@ -529,14 +588,48 @@
 		\vocab{        Tongue: } a projection of the ice edge up to several km in length caused by wind and current; usually forms when a valley glacier moves very quickly into a lake or ocean
 		\vocab{        Tributary glacier: } a small glacier that flows into a larger glacier 
 		\vocab{        Valley glacier: } a mountain glacier whose flow is confined by valley walls 
-		\vocab{Varve: } A pair of thin layers deposited during a single year in a lake. One layer consists of silt brought in during spring floods and the other of clay deposited in winter when the lake's surface freezes over and the water is still.  
+		\vocab{Varve: } A pair of thin layers deposited during a single year in a lake. One layer consists of silt brought in during spring floods and the other of clay deposited in winter when the lake's surface freezes over and the water is still.
+		\vocab{Whaleback: } similar to a roche moutonnée, but on a larger scale.
 		\vocab{        Wave ogives: } ogives that show some vertical relief on a glacier; usually the dark bands are in the hollows and the light bands are in the ridges; form at the base of steep, narrow ice falls 
 		\vocab{        Weathered ice: } glacier ice that has been exposed to sun or warm wind so that the boundaries between ice crystals are partly disintegrated
 		\vocab{Wet Bottom Glacier: } A glacier with a thin layer of water at its base, over which the glacier slides, also called a temperate glacier. Occur in regions where atmospheric temperatures become warm enough for glacial ice to be at or near its melting point.  
 		\vocab{Zone of Accumulation: } In the upper part of the glacier where there is more accumulation than ablation  
 		\vocab{Zone of Ablation} In the lower part of a glacier where there is more ablation than accumulation  
-		\vocab{Zone of Wastage: } below the snow line, where snow melting exceeds snow accumulation  
-
-	   	
+		\vocab{Zone of Wastage: } below the snow line, where snow melting exceeds snow accumulation
+		\vocab{Ablation:} refers to all processes by which snow, ice, or water in any form are lost from a glacier - the loss of snow or ice by evaporation and melting.
+		\vocab{Ablation area:} is the lower region of a glacier where snow ablation exceeds snowfall.
+		\vocab{Accumulation area:} is the upper region of a glacier where snow accumulation exceeds melting.
+		\vocab{Albedo: }is the percentage of the incoming radiation that is reflected off a surface. An albedo of one indicates that 100 percent of the radiation is reflected. Fresh snow has a high albedo (0.7 to 0.9), indicating that 70 to 90 percent of the radiation received is reflected; glacier ice has a lower albedo of 0.2 to 0.4.
+		\vocab{Cirque:} a glacially eroded basin shaped like half a bowl; a deep, steep-walled recess in a mountain, caused by glacial erosion.
+		\vocab{Crevasses: }are open fissures in glacier ice. Crevasses form where the speed of the ice is variable, such as in icefalls and at valley bends.
+		\vocab{Density:} is the ratio of the mass of an object to its volume. Snow has a density averaging about 0.1, firn has a density of about 0.55, and glacier ice has a density of about 0.89. The density of unmineralized fresh water is 1.
+		\vocab{Equilibrium line:} is the boundary between the accumulation area and the ablation area.
+		\vocab{Firn: }is old snow that has been recrystalized into a more dense substance. Snowflakes are compressed under the weight of the overlying snowpack. Individual crystal near the melting point have slick liquid edges allowing them to glide along other crystal planes and to readjust the space between them. Where the crystals touch they bond together, squeezing the air between them to the surface or into bubbles. During summer we might see the crystal metamorphosis occur more rapidly because of water percolation between the crystals. By summer's end the result is firn -- a compacted snow with the appearance of wet sugar, but with a hardness that makes it resistant to all but the most dedicated snow shovelers! Firn has a density greater than 0.55.
+		\vocab{Glacial advance:} is the net movement of glacier terminus downvalley. Advance occurs when the rate of glacier flow downvalley is greater than its rate of ablation. Advances are characterized by a convex-shaped terminus.
+		\vocab{Glacial drift:} is the loose and unsorted rock debris distributed by glaciers and glacial meltwaters. Rocks may be dropped in place by the melting ice; they may be rolled to the ice margins, or they may be deposited by meltwater streams. Collectively, these deposits are called glacial drift. Till refers to the debris deposited directly by the glacier. Rock debris rolls off the glacier edges and builds piles of loose unconsolidated rocks called glacier moraine. Lateral moraines form along the side of a glacier and curl into a terminal moraine.
+		\vocab{Glacial flour:} is the fine-grained sediment carried by glacial rivers that results from the abrasion of rock at the glacier bed. Its presence turns lake water aqua blue or brown, depending on its parent rock type.
+		\vocab{Glacial polish:} is the leveling and smoothing of rock by fine-grained debris at the glacier bed. Coarser rocks may gouge scratches called striations.
+		\vocab{Glacier outburst flood:} A sudden release of melt water from a glacier or glacier-dammed lake sometimes resulting in a catastrophic flood, formed by melting of a channel or by subglacial volcanic activity.
+		\vocab{Hydrothermal alteration:} is the alteration of rocks or minerals due to the reactions of geothermally heated water with minerals. The process weathers and weakens the rocks such that they may become unstable.
+		\vocab{Icefalls:} are somewhat analogous to waterfalls in rivers. The flow of the ice down a steep gradient often results in crevasses and seracs.
+		\vocab{Jokulhlaup:} Icelandic term for Glacial outburst floods. Jokulhlaup's are sudden outbursts of water released by a glacier. The water may be released from glacier cavities, sub-glacial lakes, and from glacier-dammed lakes in side valleys.
+		\vocab{Kinematic waves:} refer to a wave of ice moving downglacier propagated by its increased thickness. The wave of ice may move at two to six times the velocity of surrounding thinner ice.
+		\vocab{Lahar:} is a mudflow or debris flow originating on a volcano. Jokulhlaups (see above) often become lahars when they incorporate the rock debris that lies within their path.
+		\vocab{Lateral moraine:} A moraine formed at the side of a glacier. Piles of loose unsorted rocks along the side margins of the glacier. The rocks may be pushed there by the moving ice or dumped from the glacier's rounded surface.
+		\vocab{Mass balance: }describes the net gain or loss of snow and ice through a given year. It is usually expressed in terms of water gain or loss.
+		\vocab{Neoglaciation:} refers to the advances made by mountain glaciers since the great Pleistocene ice age. In the Cascades the advances have occurred since 6,600 years before present.
+		\vocab{Ogives:} are arc-shaped features occasionally found across the glacier surface below icefalls. They may be ridges and swales in the ice or bands of darker or lighter ice. One theory of their formation suggests that the ice is stretched and sometimes dirtied when exposed in the icefall during the high velocities of summer; it is compressed during the winter so that bands of different ice thickness form.
+		\vocab{Perfectly plastic solid:} is a solid that does not deform until it reaches a critical value of stress, after which it will yield infinitely. Some glaciologists say that ice is a perfectly plastic substance. (That is, brittle and capable of cracking like a solid, yet deformable and capable of flowing at other stresses.)
+		\vocab{Pleistocene:} is the period of earth's history, roughly two million years ago to about ten thousand years ago, characterized by the advance and recession of continental ice sheets.
+		\vocab{Roche moutonnee:} is a small asymetrically-shaped hill formed by glacial erosion. The upper sides are rounded and smoothed and the lower sides are rough and broken due to quarrying by the glacier.
+		\vocab{Seracs:} are the pinnacles of ice formed where the glacier surface is torn by sets of crevasses.
+		\vocab{Striations}: are the scratches etched into the rock at the bed of a glacier. Their presence indicates grinding of sand and rock particles into the bed under considerable pressure. In some places find-grained debris polishes the bedrock to a lustrous surface finish called glacial polish.
+		\vocab{Suncup}: is a small depression on a snow or firn surface formed by melting and evaporation resulting from direct exposure to the sun.
+		\vocab{Trimlines}: are the sharp vegetative boundaries delimiting the upper margin of a former glaciation. The age differences of the ground surface are often visible because of different ages of the vegetation.
+		\mysection{Ice Cores}
+		Ice cores are cylinders of ice drilled out of an ice sheet or glacier. Most ice core records come from Antarctica and Greenland, and the longest ice cores extend to 3km in depth. The oldest continuous ice core records to date extend 123,000 years in Greenland and 800,000 years in Antarctica. Ice cores contain information about past temperature, and about many other aspects of the environment. Crucially, the ice encloses small bubbles of air that contain a sample of the atmosphere – from these it is possible to measure directly the past concentration of gases (including carbon dioxide and methane) in the atmosphere.
+	   	\fig{basic}
+	   	\fig{kettle}
+	   	\figwidth{greenlandant}{6}
 	\end{multicols*}
 \end{document}

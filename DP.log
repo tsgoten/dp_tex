@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2018.12.2)  15 FEB 2019 13:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2018.12.2)  15 FEB 2019 22:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -414,6 +414,18 @@ LaTeX Info: Redefining \scshape on input line 37.
 LaTeX Info: Redefining \swshape on input line 134.
 LaTeX Info: Redefining \oldstylenums on input line 149.
 LaTeX Info: Redefining \textsw on input line 156.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/soul/soul.sty
+Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
+\SOUL@word=\toks28
+\SOUL@lasttoken=\toks29
+\SOUL@cmds=\toks30
+\SOUL@buffer=\toks31
+\SOUL@token=\toks32
+\SOUL@spaceskip=\skip48
+\SOUL@ttwidth=\dimen133
+\SOUL@uldp=\dimen134
+\SOUL@ulht=\dimen135
 ) (./DP.aux)
 \openout1 = `DP.aux'.
 
@@ -483,16 +495,16 @@ LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/n' will be
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count115
-\scratchdimen=\dimen133
+\scratchdimen=\dimen136
 \scratchbox=\box57
 \nofMPsegments=\count116
 \nofMParguments=\count117
-\everyMPshowfont=\toks28
+\everyMPshowfont=\toks33
 \MPscratchCnt=\count118
-\MPscratchDim=\dimen134
+\MPscratchDim=\dimen137
 \MPnumerator=\count119
 \makeMPintoPDFobject=\count120
-\everyMPtoPDFconversion=\toks29
+\everyMPtoPDFconversion=\toks34
 ) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -555,125 +567,218 @@ LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/it' will be
 <ice_ages1.jpg, id=1, 542.025pt x 211.79124pt>
 File: ice_ages1.jpg Graphic file (type jpg)
 <use ice_ages1.jpg>
-Package pdftex.def Info: ice_ages1.jpg  used on input line 148.
+Package pdftex.def Info: ice_ages1.jpg  used on input line 149.
 (pdftex.def)             Requested size: 196.03221pt x 76.59703pt.
 <hydrology.jpg, id=2, 976.64874pt x 476.78125pt>
 File: hydrology.jpg Graphic file (type jpg)
 <use hydrology.jpg>
-Package pdftex.def Info: hydrology.jpg  used on input line 157.
+Package pdftex.def Info: hydrology.jpg  used on input line 167.
 (pdftex.def)             Requested size: 196.03221pt x 95.69649pt.
 <landforms.jpg, id=3, 321.2pt x 199.74625pt>
 File: landforms.jpg Graphic file (type jpg)
 <use landforms.jpg>
-Package pdftex.def Info: landforms.jpg  used on input line 158.
+Package pdftex.def Info: landforms.jpg  used on input line 168.
 (pdftex.def)             Requested size: 196.03221pt x 121.90903pt.
 <moraines.jpg, id=4, 451.6875pt x 400.49625pt>
 File: moraines.jpg Graphic file (type jpg)
 <use moraines.jpg>
-Package pdftex.def Info: moraines.jpg  used on input line 159.
-(pdftex.def)             Requested size: 196.03221pt x 173.81723pt.
-<Glacier_Types.jpg, id=5, 746.01291pt x 559.50967pt>
-File: Glacier_Types.jpg Graphic file (type jpg)
-<use Glacier_Types.jpg>
-Package pdftex.def Info: Glacier_Types.jpg  used on input line 160.
-(pdftex.def)             Requested size: 196.03221pt x 147.02289pt.
-<glacierflow2.jpg, id=6, 930.47626pt x 714.67pt>
+Package pdftex.def Info: moraines.jpg  used on input line 169.
+(pdftex.def)             Requested size: 170.71652pt x 151.37126pt.
+<glacierflow2.jpg, id=5, 930.47626pt x 714.67pt>
 File: glacierflow2.jpg Graphic file (type jpg)
 <use glacierflow2.jpg>
-Package pdftex.def Info: glacierflow2.jpg  used on input line 161.
+Package pdftex.def Info: glacierflow2.jpg  used on input line 170.
 (pdftex.def)             Requested size: 98.0161pt x 75.27701pt.
-<Larsen_contours.jpg, id=7, 276.03125pt x 290.08376pt>
+<Larsen_contours.jpg, id=6, 276.03125pt x 290.08376pt>
 File: Larsen_contours.jpg Graphic file (type jpg)
 <use Larsen_contours.jpg>
-Package pdftex.def Info: Larsen_contours.jpg  used on input line 161.
+Package pdftex.def Info: Larsen_contours.jpg  used on input line 170.
 (pdftex.def)             Requested size: 98.0161pt x 103.00479pt.
-<iceshelf_locations.png, id=8, 1606.0pt x 1290.8225pt>
+<iceshelf_locations.png, id=7, 1606.0pt x 1290.8225pt>
 File: iceshelf_locations.png Graphic file (type png)
 <use iceshelf_locations.png>
-Package pdftex.def Info: iceshelf_locations.png  used on input line 334.
+Package pdftex.def Info: iceshelf_locations.png  used on input line 376.
 (pdftex.def)             Requested size: 196.03221pt x 157.55101pt.
-<othersea.jpg, id=10, 513.92pt x 228.855pt>
+<othersea.jpg, id=9, 513.92pt x 228.855pt>
 File: othersea.jpg Graphic file (type jpg)
 <use othersea.jpg>
-Package pdftex.def Info: othersea.jpg  used on input line 335.
+Package pdftex.def Info: othersea.jpg  used on input line 377.
 (pdftex.def)             Requested size: 196.03221pt x 87.29753pt.
-<arctic.png, id=11, 933.4875pt x 923.45pt>
+<arctic.png, id=10, 933.4875pt x 923.45pt>
 File: arctic.png Graphic file (type png)
 <use arctic.png>
-Package pdftex.def Info: arctic.png  used on input line 336.
+Package pdftex.def Info: arctic.png  used on input line 378.
 (pdftex.def)             Requested size: 98.0161pt x 96.95805pt.
-<lgm.jpg, id=12, 216.81pt x 157.5486pt>
+<lgm.jpg, id=11, 216.81pt x 157.5486pt>
 File: lgm.jpg Graphic file (type jpg)
 <use lgm.jpg>
-Package pdftex.def Info: lgm.jpg  used on input line 336.
+Package pdftex.def Info: lgm.jpg  used on input line 378.
 (pdftex.def)             Requested size: 98.0161pt x 71.22556pt.
-<corrie.png, id=13, 722.7pt x 542.025pt>
+<corrie.png, id=12, 722.7pt x 542.025pt>
 File: corrie.png Graphic file (type png)
 <use corrie.png>
-Package pdftex.def Info: corrie.png  used on input line 337.
+Package pdftex.def Info: corrie.png  used on input line 379.
 (pdftex.def)             Requested size: 98.0161pt x 73.50931pt.
-<milan.jpg, id=14, 265.99374pt x 190.7125pt>
+<milan.jpg, id=13, 265.99374pt x 190.7125pt>
 File: milan.jpg Graphic file (type jpg)
 <use milan.jpg>
-Package pdftex.def Info: milan.jpg  used on input line 337.
+Package pdftex.def Info: milan.jpg  used on input line 379.
 (pdftex.def)             Requested size: 98.0161pt x 70.27441pt.
-<seaice.png, id=15, 677.53125pt x 377.41pt>
+<seaice.png, id=14, 677.53125pt x 377.41pt>
 File: seaice.png Graphic file (type png)
 <use seaice.png>
-Package pdftex.def Info: seaice.png  used on input line 338.
+Package pdftex.def Info: seaice.png  used on input line 380.
 (pdftex.def)             Requested size: 196.03221pt x 109.19846pt.
-<na.jpg, id=16, 494.84875pt x 513.92pt>
+<na.jpg, id=15, 494.84875pt x 513.92pt>
 File: na.jpg Graphic file (type jpg)
 <use na.jpg>
-Package pdftex.def Info: na.jpg  used on input line 339.
+Package pdftex.def Info: na.jpg  used on input line 381.
 (pdftex.def)             Requested size: 196.03221pt x 203.58823pt.
+<southern.jpg, id=16, 949.5475pt x 817.0525pt>
+File: southern.jpg Graphic file (type jpg)
+<use southern.jpg>
+Package pdftex.def Info: southern.jpg  used on input line 382.
+(pdftex.def)             Requested size: 98.0161pt x 84.32814pt.
+<greenland.jpg, id=17, 853.1875pt x 725.71124pt>
+File: greenland.jpg Graphic file (type jpg)
+<use greenland.jpg>
+Package pdftex.def Info: greenland.jpg  used on input line 382.
+(pdftex.def)             Requested size: 98.0161pt x 83.3609pt.
+<fjord.png, id=18, 113.9457pt x 78.7743pt>
+File: fjord.png Graphic file (type png)
+<use fjord.png>
+Package pdftex.def Info: fjord.png  used on input line 383.
+(pdftex.def)             Requested size: 98.0161pt x 67.7614pt.
+<glacier.png, id=19, 180.675pt x 105.87555pt>
+File: glacier.png Graphic file (type png)
+<use glacier.png>
+Package pdftex.def Info: glacier.png  used on input line 383.
+(pdftex.def)             Requested size: 98.0161pt x 57.43687pt.
+<lauren.jpg, id=20, 347.2975pt x 328.22626pt>
+File: lauren.jpg Graphic file (type jpg)
+<use lauren.jpg>
+Package pdftex.def Info: lauren.jpg  used on input line 384.
+(pdftex.def)             Requested size: 98.0161pt x 92.63393pt.
+<cordi.jpg, id=21, 456.70625pt x 276.03125pt>
+File: cordi.jpg Graphic file (type jpg)
+<use cordi.jpg>
+Package pdftex.def Info: cordi.jpg  used on input line 384.
+(pdftex.def)             Requested size: 98.0161pt x 59.24025pt.
+<wordlmap.jpg, id=22, 521.95pt x 258.9675pt>
+File: wordlmap.jpg Graphic file (type jpg)
+<use wordlmap.jpg>
+Package pdftex.def Info: wordlmap.jpg  used on input line 385.
+(pdftex.def)             Requested size: 196.03221pt x 97.26271pt.
+<filler.jpg, id=23, 480.29437pt x 274.02374pt>
+File: filler.jpg Graphic file (type jpg)
+<use filler.jpg>
+Package pdftex.def Info: filler.jpg  used on input line 386.
+(pdftex.def)             Requested size: 196.03221pt x 111.84453pt.
+<stoss.jpg, id=24, 361.35pt x 207.02344pt>
+File: stoss.jpg Graphic file (type jpg)
+<use stoss.jpg>
+Package pdftex.def Info: stoss.jpg  used on input line 387.
+(pdftex.def)             Requested size: 196.03221pt x 112.30904pt.
+<alpine.jpeg, id=25, 256.96pt x 197.73875pt>
+File: alpine.jpeg Graphic file (type jpg)
+<use alpine.jpeg>
+Package pdftex.def Info: alpine.jpeg  used on input line 388.
+(pdftex.def)             Requested size: 196.03221pt x 150.85628pt.
+<varve.png, id=26, 667.49374pt x 414.54875pt>
+File: varve.png Graphic file (type png)
+<use varve.png>
+Package pdftex.def Info: varve.png  used on input line 389.
+(pdftex.def)             Requested size: 196.03221pt x 121.74683pt.
+<volume.png, id=27, 324.21124pt x 156.585pt>
+File: volume.png Graphic file (type png)
+<use volume.png>
+Package pdftex.def Info: volume.png  used on input line 390.
+(pdftex.def)             Requested size: 196.03221pt x 94.67805pt.
 
-Overfull \hbox (0.66647pt too wide) in paragraph at lines 57--345
+Underfull \hbox (badness 10000) in paragraph at lines 57--391
+[]
+ []
+
+
+Overfull \hbox (0.66647pt too wide) in paragraph at lines 57--391
 [] []
  []
 
 
-Overfull \hbox (0.66647pt too wide) in paragraph at lines 57--345
+Overfull \hbox (0.66647pt too wide) in paragraph at lines 57--391
 [] []
  []
 
 
-Overfull \hbox (0.66647pt too wide) in paragraph at lines 57--345
+Overfull \hbox (0.66647pt too wide) in paragraph at lines 57--391
 [] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 57--345
+Overfull \hbox (0.66647pt too wide) in paragraph at lines 57--391
+[] []
+ []
+
+
+Overfull \hbox (0.66647pt too wide) in paragraph at lines 57--391
+[] []
+ []
+
+
+Overfull \hbox (0.66647pt too wide) in paragraph at lines 57--391
+[] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--391
 
  []
 
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./ice_ages1.jpg> <./hydrol
-ogy.jpg> <./landforms.jpg> <./moraines.jpg> <./Glacier_Types.jpg> <./glacierflo
-w2.jpg> <./Larsen_contours.jpg>] [2 <./iceshelf_locations.png> <./othersea.jpg>
- <./arctic.png (PNG copy)> <./lgm.jpg> <./corrie.png> <./milan.jpg> <./seaice.p
-ng> <./na.jpg>] [3] (./DP.aux) ) 
+ogy.jpg> <./landforms.jpg> <./moraines.jpg> <./glacierflow2.jpg> <./Larsen_cont
+ours.jpg>] [2 <./iceshelf_locations.png> <./othersea.jpg> <./arctic.png (PNG co
+py)> <./lgm.jpg> <./corrie.png> <./milan.jpg> <./seaice.png> <./na.jpg> <./sout
+hern.jpg> <./greenland.jpg> <./fjord.png> <./glacier.png> <./lauren.jpg> <./cor
+di.jpg> <./wordlmap.jpg> <./filler.jpg> <./stoss.jpg> <./alpine.jpeg> <./varve.
+png> <./volume.png>]
+<basic.jpg, id=47, 376.40625pt x 222.8325pt>
+File: basic.jpg Graphic file (type jpg)
+<use basic.jpg>
+Package pdftex.def Info: basic.jpg  used on input line 631.
+(pdftex.def)             Requested size: 196.03221pt x 116.05377pt.
+<kettle.jpg, id=48, 301.125pt x 238.8925pt>
+File: kettle.jpg Graphic file (type jpg)
+<use kettle.jpg>
+Package pdftex.def Info: kettle.jpg  used on input line 632.
+(pdftex.def)             Requested size: 196.03221pt x 155.52615pt.
+<greenlandant.jpg, id=49, 552.0625pt x 440.64626pt>
+File: greenlandant.jpg Graphic file (type jpg)
+<use greenlandant.jpg>
+Package pdftex.def Info: greenlandant.jpg  used on input line 633.
+(pdftex.def)             Requested size: 170.71652pt x 136.26274pt.
+ [3 <./basic.jpg> <./kettle.jpg> <./greenlandant.jpg>]
+(./DP.aux) ) 
 Here is how much of TeX's memory you used:
- 4535 strings out of 492641
- 63128 string characters out of 6131787
- 245162 words of memory out of 5000000
- 8331 multiletter control sequences out of 15000+600000
- 11515 words of font info for 22 fonts, out of 8000000 for 9000
+ 4775 strings out of 492641
+ 66202 string characters out of 6131787
+ 286032 words of memory out of 5000000
+ 8550 multiletter control sequences out of 15000+600000
+ 11828 words of font info for 23 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 39i,5n,37p,969b,266s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/
-ebgaramond/ebgm_iymieh.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/ebgar
-amond/ebgm_ny6sxo.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/ebgaram
-ond/EBGaramond12-Italic.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/e
-bgaramond/EBGaramond12-Regular.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
-ublic/amsfonts/cm/cmmi5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmsy5.pfb>
-Output written on DP.pdf (3 pages, 3360273 bytes).
+ 39i,5n,37p,969b,268s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/ebgaramond/ebgm_iymi
+eh.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/ebgaramond/ebgm_ny6sxo.en
+c}</usr/share/texlive/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond12-Ita
+lic.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond
+12-Regular.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+mi5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb>
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb>
+Output written on DP.pdf (3 pages, 4311243 bytes).
 PDF statistics:
- 55 PDF objects out of 1000 (max. 8388607)
+ 72 PDF objects out of 1000 (max. 8388607)
  26 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 76 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 146 words of extra memory for PDF output out of 10000 (max. 10000000)
 
