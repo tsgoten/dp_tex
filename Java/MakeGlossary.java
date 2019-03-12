@@ -13,7 +13,7 @@ public class MakeGlossary {
             System.setOut(out);
             String line = "";
             while((line = reader.readLine()) != null){
-                int colonIndex = line.indexOf(":");
+                int colonIndex = line.indexOf("&");
                 System.out.println("\\vocab{" + line.substring(0,colonIndex+1) + " }" + line.substring(colonIndex+1));
                 
             }
